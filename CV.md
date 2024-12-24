@@ -12,7 +12,7 @@ United States of America
 ---
 
 ## Personal Statement
-A young clinical researcher, with strong clinical skills combined with excellent communication abilities. A strategic thinker who recognizes the value of honesty, objectivity, and attention to detail in the medical sphere.
+A young epigenetic/genetic researcher with strong clinical skills combined with excellent communication abilities. A strategic thinker who recognizes the value of honesty, objectivity, and attention to detail in the medical sphere.
 
 - Ability to pursue organizational objectives even when that involves making an unpopular decision.
 - Ability to align organizational interests with those of subordinates.
