@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home"}
-  - {file: "README.md", title: "About"}
+ #### - {file: "index.html", title: "Home"} we dont need this at the moment
+  - {file: "README.md", title: "Home"}
   - {file: "Dr_George_Eusebio_Kuodza_CV_2024.pdf", title: "CV"}
   - {title: "Lab", url: "https://mmi-lab.ucdavis.edu/"}
 
