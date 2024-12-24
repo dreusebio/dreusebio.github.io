@@ -18,7 +18,7 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
  #### - {file: "index.html", title: "Home"} we dont need this at the moment
   - {file: "README.md", title: "Home"}
-  - {file: "George.pdf", title: "CV"}
+  - {file: "CV.md", title: "CV"}
   - {title: "Lab", url: "https://mmi-lab.ucdavis.edu/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
