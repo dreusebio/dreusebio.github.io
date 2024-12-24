@@ -18,6 +18,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
   - {file: "README.md", title: "About"}
+  - {file: "Dr_George_Eusebio_Kuodza_CV_2024.pdf", title: "CV"}
+  - {title: "Lab", url: "https://mmi-lab.ucdavis.edu/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:gekuodza@ucdavis.edu"}
