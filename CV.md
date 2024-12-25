@@ -6,7 +6,7 @@ title: Curriculum Vitae
 # George Eusebio Kuodza  
 *Postdoctoral Scholar in Epigenetics*  
 [LinkedIn](https://www.linkedin.com/in/george-kuodza-89178314b/) | [GitHub](https://github.com/dreusebio) | [Website](https://dreusebio.github.io/)  
-**Email**: gekuodza@ucdavis.edu | **Phone**: 530-220-4085  
+**Email**: gekuodza@ucdavis.edu | **Phone**: 530-752-7207  
 
 ---
 
@@ -32,7 +32,8 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 ### **Postdoctoral Scholar**  
 **University of California, Davis** | *July 2022 – Present*  
 - Conducting research on epigenetics, focusing on DNA methylation in neurodevelopmental disorders.  
-- Published and presented findings at national and international conferences.  
+- Published and presented findings at national and international conferences.
+- Mentored 2 Pre-med Undergraduate students  
 
 ### **Assistant Lecturer, Family Medicine Department**  
 **Uzhhorod National University** | *September 2020 – June 2022*  
