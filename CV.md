@@ -90,7 +90,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 ## **Publications**
 
 ### **Articles**
-<div class="csl-bib-body">
+
 1. Kuodza G, Kolesnyk A, Kolesnyk P, Matyukha L. Who Wants to be a Family Doctor in Ukraine? An Opinion Survey among Senior Undergraduate Students. *Recipe* [Internet]. 2020 Jul 21 [cited 2024 Dec 23];(2–3):248–57. Available from: [https://recipe.recipe.by/ru/?editions=2020-tom-23-n-2-3&group_id=item_0&article_id=line_7](https://recipe.recipe.by/ru/?editions=2020-tom-23-n-2-3&group_id=item_0&article_id=line_7)
 
 2. Kuodza GE, Kolesnyk PO. An antibiotic drug-induced allergic reaction in a patient with multiple comorbidities. *Clinical Case*. *Achievements of Clinical and Experimental Medicine* [Internet]. 2020 Aug 20 [cited 2024 Dec 23];(2):211–4. Available from: [https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348](https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348)
@@ -102,7 +102,6 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 5. Hajdarevic S, Högberg C, Marzo-Castillejo M, Siliņa V, Sawicka-Powierza J, Esteva M, et al. Exploring why European primary care physicians sometimes do not think of, or act on, a possible cancer diagnosis: A qualitative study. *BJGP Open* [Internet]. 2023 Dec [cited 2024 Dec 23];7(4):BJGPO.2023.0029. Available from: [http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029](http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029)
 
 6. Kuodza GE, Kawai R, LaSalle JM. Intercontinental insights into autism spectrum disorder: a synthesis of environmental influences and DNA methylation. *Environ Epigenetics* [Internet]. 2024 Dec 19 [cited 2024 Dec 23];10(1):dvae023. Available from: [https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223](https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223)
-</div>
 
 
 ### **Abstracts** 
