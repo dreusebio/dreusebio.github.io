@@ -88,6 +88,18 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 ---
 
 ## **Publications**
+<div class="csl-bib-body">
+1. Kuodza G, Kolesnyk A, Kolesnyk P, Matyukha L. Who Wants to be a Family Doctor in Ukraine? An Opinion Survey among Senior Undergraduate Students. Recipe [Internet]. 2020 Jul 21 [cited 2024 Dec 23];(2\uc0\u8211{}3):248\uc0\u8211{}57. Available from: https://recipe.recipe.by/ru/?editions=2020-tom-23-n-2-3&group_id=item_0&article_id=line_72.
+Kuodza GE, Kolesnyk PO. An antibiotic drug-induced allergic reaction in a patient with multiple comorbidities. Clinical Case. Achievements of Clinical and Experimental Medicine [Internet]. 2020 Aug 20 [cited 2024 Dec 23];(2):211\uc0\u8211{}4. Available from: https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/113483.
+Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, Kuodza GE, Klemenc-Keti\uc0\u353{} Z, et al. Identification and Ranking of Core Values in Family Medicine: A Mixed Methods Study From Ukraine. Front Med [Internet]. 2021 Mar 22 [cited 2024 Dec 23];8:646276. Available from: https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full4.
+Shushman I, Kolesnyk A, Kolesnyk P, Kuodza GE, Mykyta I, Bayen S, et al. Validation of a modified questionnaire to assess Ukrainian Family Physicians\uc0\u8217{} readiness to implement the evidence-based screening recommendations into their clinical practice, using a mixed method study. BMC Prim Care. 2022;23(1).  <div class="csl-entry">
+    <div class="csl-left-margin">5.</div><div class="csl-right-inline">Hajdarevic S, Högberg C, Marzo-Castillejo M, Siliņa V, Sawicka-Powierza J, Esteva M, et al. Exploring why European primary care physicians sometimes do not think of, or act on, a possible cancer diagnosis. A qualitative study. BJGP Open [Internet]. 2023 Dec [cited 2024 Dec 23];7(4):BJGPO.2023.0029. Available from: <a href="http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029">http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029</a></div>
+  </div>
+  <div class="csl-entry">
+    <div class="csl-left-margin">6.</div><div class="csl-right-inline">Kuodza GE, Kawai R, LaSalle JM. Intercontinental insights into autism spectrum disorder: a synthesis of environmental influences and DNA methylation. Environ Epigenetics [Internet]. 2024 Dec 19 [cited 2024 Dec 23];10(1):dvae023. Available from: <a href="https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223">https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223</a></div>
+  </div>
+</div>
+
 - Kuodza GE, Ludena YJ, Mouat JS, et al. *Multigenerational impact on DNA methylation signatures in autism spectrum disorder*. ASHG Conference 2023 (Abstract).  
 - Pavlo Kolesnyk, Sabine Bayen, George Kuodza, et al. *Identification and ranking of core values in family medicine: A mixed-methods study from Ukraine*. Frontiers in Medicine, 2021.  
 
