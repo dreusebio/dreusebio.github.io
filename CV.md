@@ -155,9 +155,9 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 ---
 
 ## **Honors and Awards**
-**Travel Award** | Clinical Research Education in Genome Science Short Course, NY | *August 2024*
-**3rd place Oral Presentation** | African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
-**Top 3 Finalist at the 3-Minute Thesis Oral Presentation** | Association of Clinical and Translational Science Conference, NV | *April 2024*
+1. **Travel Award** | Clinical Research Education in Genome Science Short Course, NY | *August 2024*
+2. **3rd place Oral Presentation** | African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
+3. **Top 3 Finalist at the 3-Minute Thesis Oral Presentation** | Association of Clinical and Translational Science Conference, NV | *April 2024*
 **Trainee Pilot Grant for Genotyping an ASD Structural Variant ($10,000)** |Human Genomics Focus Group, University of California, Davis, CA | *June 2023*
 **1st place Poster Presentation** | 10th Annual Human Genomics Symposium, University of California, Davis, CA  | *November 2024*  
 **Travel Award** | The Whole Scientist Short Course – Jackson Laboratory, CT | *September 2024*  
