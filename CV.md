@@ -155,33 +155,33 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 ---
 
 ## **Honors and Awards**
-- **Travel Award** | Clinical Research Education in Genome Science Short Course, NY | *August 2024*
-- **3rd place Oral Presentation** | African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
-- **Top 3 Finalist at the 3-Minute Thesis Oral Presentation** | Association of Clinical and Translational Science Conference, NV | *April 2024*
-- **Trainee Pilot Grant for Genotyping an ASD Structural Variant ($10,000)** |Human Genomics Focus Group, University of California, Davis, CA | *June 2023*
-- **1st place Poster Presentation** | 10th Annual Human Genomics Symposium, University of California, Davis, CA  | *November 2024*  
-- **Travel Award** | The Whole Scientist Short Course – Jackson Laboratory, CT | *September 2024*  
-- **Pilot Grant for Lipidomics ($2,000)** | Genome Center, University of California, Davis, CA |   *September 2024*
-- **1st place Poster Presentation** | Young Scientist Presenters among Family Doctors at the Ukrainian Association of Family Doctors Conference, Ukraine | *June 2019*
-- **3rd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Ukraine | *April 2019*
-- **2nd place Oral Presentation** |Art of Medical Oration 4th Annual Conference, Ukraine | *May 2018*
-- **2nd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Ukraine | *April 2018*
+**Travel Award** | Clinical Research Education in Genome Science Short Course, NY | *August 2024*
+**3rd place Oral Presentation** | African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
+**Top 3 Finalist at the 3-Minute Thesis Oral Presentation** | Association of Clinical and Translational Science Conference, NV | *April 2024*
+**Trainee Pilot Grant for Genotyping an ASD Structural Variant ($10,000)** |Human Genomics Focus Group, University of California, Davis, CA | *June 2023*
+**1st place Poster Presentation** | 10th Annual Human Genomics Symposium, University of California, Davis, CA  | *November 2024*  
+**Travel Award** | The Whole Scientist Short Course – Jackson Laboratory, CT | *September 2024*  
+**Pilot Grant for Lipidomics ($2,000)** | Genome Center, University of California, Davis, CA |   *September 2024*
+**1st place Poster Presentation** | Young Scientist Presenters among Family Doctors at the Ukrainian Association of Family Doctors Conference, Ukraine | *June 2019*
+**3rd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Ukraine | *April 2019*
+**2nd place Oral Presentation** |Art of Medical Oration 4th Annual Conference, Ukraine | *May 2018*
+**2nd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Ukraine | *April 2018*
 
 ---
 
 ## **Professional Affiliations**
-- Member, International Genetic Epidemiology Society (IGES) | *November 2024 - Present*
-- Member, International Society for Autism Research (INSAR) | *October 2024 - Present*
-- Member, Association of Clinical and Translational Science (ACTS) | *April 2024 - Present*
-- Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
-- Member, African Society for Bioinformatics and Computational Biology (ASBCB) | *February 2024 - Present*
-- Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023 - April 2023*
-- Member, American Society of Human Genetics (ASHG) | *November 2023 - Present*
-- Member, Perinatal Origin of Development (POD) Centre, University of California, Davis,  | *September 2022 - Present*
-- Member, European General Practitioner Research Network (EGRPN) | *February 2022 - Present*
-- Welfare and Education Committee, African Students Association of Uzhhorod National University, Ukraine | *September 2021 - February 2022*
-- Member, European Academy of Teachers (EURACT) | *September 2020 - June 2022*
-- Member, Örenäs Research Group  | *September 2019 - Present*
+Member, International Genetic Epidemiology Society (IGES) | *November 2024 - Present*
+Member, International Society for Autism Research (INSAR) | *October 2024 - Present*
+Member, Association of Clinical and Translational Science (ACTS) | *April 2024 - Present*
+Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
+Member, African Society for Bioinformatics and Computational Biology (ASBCB) | *February 2024 - Present*
+Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023 - April 2023*
+Member, American Society of Human Genetics (ASHG) | *November 2023 - Present*
+Member, Perinatal Origin of Development (POD) Centre, University of California, Davis,  | *September 2022 - Present*
+Member, European General Practitioner Research Network (EGRPN) | *February 2022 - Present*
+Welfare and Education Committee, African Students Association of Uzhhorod National University, Ukraine | *September 2021 - February 2022*
+Member, European Academy of Teachers (EURACT) | *September 2020 - June 2022*
+Member, Örenäs Research Group  | *September 2019 - Present*
 
 ---
 
