@@ -187,4 +187,4 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 
 
 ## **Contact Information**
-For collaboration or inquiries, please reach out via [email](mailto:gekuodza@ucdavis.edu) or phone: **530-220-4085**.
+For collaboration or inquiries, please reach out via **gekuodza@ucdavis.edu** or phone: **530-220-4085**.
