@@ -16,14 +16,14 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 ---
 
 ## **Key Skills**
-- Intermediate bioinformatics (R, SAS, Python, Shell)  
-- NGS Data Analysis (WGBS, Lipidomics)  
-- Quantitative Analysis  
-- Strong oral and written communication skills  
-- DNA isolation (saliva, buffy coat, dried blood spots)  
-- Primer design and PCR  
-- Primary Care Physician  
-- Problem Solving  
+- **Intermediate/Advanced bioinformatics experience**: R (primary), SAS, Python, Github, Shell)   
+- **Data Analysis**: DNA methylation calling(WGBS), Lipidomics
+- **Quantitative Analysis**: Statistical Modeling (linear, logistic, generalized linear models, and ANOVA) and Network and Correlation Analysis
+- **Communication**: Strong oral and written communication skills
+- **Wet Lab**: DNA isolation (saliva, buffy coat, newborn dried blood spots), designing primers, and performing PCR
+- **Team Work**: Collaboration, Interpersonal skills
+- **Primary Care Physician**
+- **Problem Solving**
 
 ---
 
@@ -91,23 +91,52 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 
 ### **Articles**
 
-1. Kuodza G, Kolesnyk A, Kolesnyk P, Matyukha L. Who Wants to be a Family Doctor in Ukraine? An Opinion Survey among Senior Undergraduate Students. *Recipe* [Internet]. 2020 Jul 21 [cited 2024 Dec 23];(2–3):248–57. Available from: [https://recipe.recipe.by/ru/?editions=2020-tom-23-n-2-3&group_id=item_0&article_id=line_7](https://recipe.recipe.by/ru/?editions=2020-tom-23-n-2-3&group_id=item_0&article_id=line_7)
+1.  **Kuodza GE**, Kawai R, LaSalle JM. Intercontinental insights into autism spectrum disorder: a synthesis of environmental influences and DNA methylation. *Environ Epigenetics* [Internet]. 2024 Dec 19 [cited 2024 Dec 23];10(1):dvae023. Available from: [https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223](https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223)
 
-2. Kuodza GE, Kolesnyk PO. An antibiotic drug-induced allergic reaction in a patient with multiple comorbidities. *Clinical Case*. *Achievements of Clinical and Experimental Medicine* [Internet]. 2020 Aug 20 [cited 2024 Dec 23];(2):211–4. Available from: [https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348](https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348)
+2. Hajdarevic S, Högberg C, Marzo-Castillejo M, Siliņa V, Sawicka-Powierza J, Esteva M, Koskela T, Petek D, Contreras-Martos S, Mangione M, Ožvačić Adžić Z, Asenova R, Gašparović Babić S, Brekke M, Buczkowski K, Buono N, Çifçili SS, Dinant GJ, Doorn B, Hoffman RD, **Kuodza G**, et al . Exploring why European primary care physicians sometimes do not think of, or act on, a possible cancer diagnosis: A qualitative study. *BJGP Open* [Internet]. 2023 Dec [cited 2024 Dec 23];7(4):BJGPO.2023.0029. Available from: [http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029](http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029) 
 
-3. Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, Kuodza GE, Klemenc-Ketič Z, et al. Identification and Ranking of Core Values in Family Medicine: A Mixed Methods Study From Ukraine. *Front Med* [Internet]. 2021 Mar 22 [cited 2024 Dec 23];8:646276. Available from: [https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full](https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full)
+3. Shushman I, Kolesnyk A, Kolesnyk P, **Kuodza G**, Mykyta I, Bayen S, et al. Validation of a modified questionnaire to assess Ukrainian Family Physicians’ readiness to implement the evidence-based screening recommendations into their clinical practice, using a mixed method study. *BMC Prim Care*. 2022;23(1). Available from: [https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4](https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4) 
 
-4. Shushman I, Kolesnyk A, Kolesnyk P, Kuodza GE, Mykyta I, Bayen S, et al. Validation of a modified questionnaire to assess Ukrainian Family Physicians’ readiness to implement the evidence-based screening recommendations into their clinical practice, using a mixed method study. *BMC Prim Care*. 2022;23(1).
+4. Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, **Kuodza G**, Klemenc-Ketič Z, et al. Identification and Ranking of Core Values in Family Medicine: A Mixed Methods Study From Ukraine. *Front Med* [Internet]. 2021 Mar 22 [cited 2024 Dec 23];8:646276. Available from: [https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full](https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full)
 
-5. Hajdarevic S, Högberg C, Marzo-Castillejo M, Siliņa V, Sawicka-Powierza J, Esteva M, et al. Exploring why European primary care physicians sometimes do not think of, or act on, a possible cancer diagnosis: A qualitative study. *BJGP Open* [Internet]. 2023 Dec [cited 2024 Dec 23];7(4):BJGPO.2023.0029. Available from: [http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029](http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029)
+5. **Kuodza GE**, Kolesnyk PO. An antibiotic drug-induced allergic reaction in a patient with multiple comorbidities. *Clinical Case*. *Achievements of Clinical and Experimental Medicine* [Internet]. 2020 Aug 20 [cited 2024 Dec 23];(2):211–4. Available from: [https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348](https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348)
 
-6. Kuodza GE, Kawai R, LaSalle JM. Intercontinental insights into autism spectrum disorder: a synthesis of environmental influences and DNA methylation. *Environ Epigenetics* [Internet]. 2024 Dec 19 [cited 2024 Dec 23];10(1):dvae023. Available from: [https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223](https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223)
+6. **Kuodza G**, Kolesnyk A, Kolesnyk P, Matyukha L. Who Wants to be a Family Doctor in Ukraine? An Opinion Survey among Senior Undergraduate Students. *Recipe* [Internet]. 2020 Jul 21 [cited 2024 Dec 23];(2–3):248–57. Available from: [https://recipe.recipe.by/ru/?editions=2020-tom-23-n-2-3&group_id=item_0&article_id=line_7](https://recipe.recipe.by/ru/?editions=2020-tom-23-n-2-3&group_id=item_0&article_id=line_7)
 
+### **Abstracts**
 
-### **Abstracts** 
+1. Kalami J, **Kuodza GE**, Nyamari MN, Goita MK, Osata S, Ifeoluwa OH, Olaitan A. Integrated Analysis of Genetic Variation, Gene Expression and Methylation Changes Uncovers Molecular Alterations in Temporal Lobe Epilepsy. *American Society of Human Genetics 2024 Annual Meeting Poster Abstracts* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf](https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf)
 
-- Kuodza GE, Ludena YJ, Mouat JS, et al. *Multigenerational impact on DNA methylation signatures in autism spectrum disorder*. ASHG Conference 2023 (Abstract).  
-- Pavlo Kolesnyk, Sabine Bayen, George Kuodza, et al. *Identification and ranking of core values in family medicine: A mixed-methods study from Ukraine*. Frontiers in Medicine, 2021.  
+2. **Kuodza GE**, Kawai R, Rodriguez YJL, Mouat JS, Hakam SM, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impact on DNA methylation signatures in autism spectrum disorder. *Journal of Clinical and Translational Science* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2](https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2)
+
+3. **Kuodza GE**, Ludena YJ, Mouat JS, Hakam SM, Kawai R, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impact on DNA methylation signatures in autism spectrum disorder. *ASHG Conference Abstracts* [Internet]. 2023 [cited 2024 Dec 23]. Available from: [https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PosterAbstracts.pdf](https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PosterAbstracts.pdf)
+
+4. Kolesnyk P, Ilkov O, Kozhanova M, Kolesnyk A, Rusanovska O, Mykyta T, Sabov O, **Kuodza G**. Is a Family Doctors' and Nurses' Training a Good Way for Changing Their Attitude Towards COVID-19 Vaccination? *94th EGPRN Meeting Abstracts* [Internet]. 2022 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/](https://www.egprn.org/)
+
+5. Kolesnyk P, **Kuodza G**. Are Thoughts, Attitudes, and Perceptions Regarding Sexual Risks the Same Among Different Ethnic Groups of Foreign Medical Students in Ukraine? *94th EGPRN Meeting Abstracts* [Internet]. 2022 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/](https://www.egprn.org/)
+
+6. Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, **Kuodza G**, Klemenc-Ketič Z, Frese T. Peer-elaboration, and ranking of core values in general practice in post-Soviet Ukraine. *EGPRN Conference Abstracts* [Internet]. 2021 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/profile/a8aee801-f4e3-4422-839e-5798c0b21ed1/Pavlo-Kolesnyk](https://www.egprn.org/profile/a8aee801-f4e3-4422-839e-5798c0b21ed1/Pavlo-Kolesnyk)
+
+7. **Kuodza G**, Mykyta I, Kolesnyk P. Ways of avoiding self-diagnosis among Ukrainian patients. *WONCA Europe Conference Abstracts* [Internet]. 2020 [cited 2024 Dec 23]. Available from: [https://www.woncaeurope.org/file/19c9f9dc-fa5e-428e-997c-37671a6174a0/WONCA%20Berlin_Book%20of%20Abstracts_Index](https://www.woncaeurope.org/file/19c9f9dc-fa5e-428e-997c-37671a6174a0/WONCA%20Berlin_Book%20of%20Abstracts_Index)
+
+8. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates and Ukrainian students of Uzhgorod National University. *ABC Course for Young Scientists* [Internet]. 2019.
+
+9. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *Ukrainian Association of Family Doctors Conference* [Internet]. 2019.
+
+10. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *WONCA Conference of Family Doctors* [Internet]. 2019.
+
+11. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *UMESCO Conference Abstracts* [Internet]. 2019.
+
+12. **Kuodza G**, Ternushak T. Risk of developing atrial fibrillation and ventricular arrhythmias in patients with COPD. *UMESCO Conference Abstracts* [Internet]. 2019.
+
+13. **Kuodza G**, Ternushak T. Cardiac arrhythmias in patients with COPD. *XVI International Scientific Conference* [Internet]. 2019.
+
+14. **Kuodza G**. Factors Affecting Choice of Family Medicine Among Undergraduates. *XVI International Scientific Conference* [Internet]. 2019.
+
+15. **Kuodza G**. Risk Factors For Atherosclerosis In Patients with COPD. *UMESCO Conference Abstracts* [Internet]. 2018.
+
+16. Gomo NE, **Kuodza G**, Essel K. Nosocomial Infection. *UMESCO Conference Abstracts* [Internet]. 2015.
+
 
 ---
 
