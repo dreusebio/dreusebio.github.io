@@ -29,51 +29,81 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 
 ## **Professional Experience**
 
+### **Codeathon Researcher**
+**African Society for Bioinformatics and Computational Biology** | *Feb 2024 - July 2024*
+- Analyzed 3 public datasets from Gene Expression Omnibus (GEO) to identify differentially expressed 
+  genes (DEGs) and differentially methylated regions (DMRs) in hippocampal and neocortex tissues of 
+  mesial temporal lobe epilepsy (mTLE) patients using an in-silico approach
+- Identified 2139 DEGs and 2195 DMRs, significantly enriched in pathways related to gliogenesis, 
+  immune response, ion transport, neuron projection development, synapse assembly, and signal 
+  transduction
+- Highlighted potential biomarkers for TLE, including CELSR1, RBFOX3, SYN2, and CDH13, emphasizing 
+  their roles in early diagnosis and personalized treatment strategies
+
 ### **Postdoctoral Scholar**  
 **University of California, Davis** | *July 2022 – Present*  
-- Conducting research on epigenetics, focusing on DNA methylation in neurodevelopmental disorders.  
-- Published and presented findings at national and international conferences.
+- Conducting research on epigenetics, focusing on DNA methylation in neurodevelopmental disorders  
+- Published and presented findings at national and international conferences
 - Mentored 2 Pre-med Undergraduate students  
 
 ### **Assistant Lecturer, Family Medicine Department**  
 **Uzhhorod National University** | *September 2020 – June 2022*  
-- Designed and implemented curricula for Objective Structured Clinical Examinations (OSCE).  
-- Delivered lessons through various methods, including online seminars and interactive tests.  
-- Supervised students in clinical skill development through role-play and practical sessions.  
+- Became the 1st international student employed to work as an assistant lecturer in the department 
+  of Family Medicine
+- Designed and implemented curricula for Objective Structured Clinical Examinations (OSCE)  
+- Delivered lessons through various methods, including online seminars and interactive tests 
+- Supervised students in clinical skill development through role-play and practical sessions  
 
 ### **Family Medicine Residency**  
 **Municipal Family Clinic, Uzhhorod National University** | *July 2019 – July 2021*  
-- Welcomed and prepared patients for consultations.  
-- Measured and recorded vital signs, contributing to initial assessments.  
-- Assisted physicians during examinations and participated in treatment planning.  
+- Welcomed and prepared patients for consultations  
+- Measured and recorded vital signs, contributing to initial assessments  
+- Assisted physicians during examinations and participated in treatment planning  
 
-### **Medical Internship**  
+### **Final Year Medical Internship**  
 **Transcarpathian Regional Hospital, Ukraine** | *September 2018 – July 2019*  
-- Rotations in Surgery, Obstetrics and Gynecology, Pediatrics, and Internal Medicine.  
-- **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care.  
-- **Surgery**: Focused on pre- and post-surgical care.  
-- **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care.  
-- **Pediatrics**: Managed pediatric conditions, administered vaccinations, and monitored developmental milestones.  
+- 3 Month Rotations in Surgery, Obstetrics and Gynecology, Pediatrics, and Internal Medicine  
+- **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
+- **Surgery**: Focused on pre- and post-surgical care  
+- **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care 
+- **Pediatrics**: Managed pediatric conditions, administered vaccinations, and monitored developmental milestones
+
+### **Summer Medical Internship**
+**Parirenyatwa Group of Hospitals, University of Zimbabwe** | *May 2017 - August 2017*
+- Monthly rotations in Surgery, Obstetrics and Gynecology, Pediatrics and Internal Medicine
+- **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
+- **Surgery**: Focused on pre- and post-surgical care  
+- **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care 
+- **Pediatrics**: Managed pediatric conditions, administered vaccinations, and monitored developmental milestones
+
+### **Summer Medical Internship**
+**Parirenyatwa Group of Hospitals, University of Zimbabwe** | *May 2016 - August 2016*
+- Monthly rotations in Surgery, Obstetrics and Gynecology, Pediatrics and Internal Medicine
+- **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
+- **Surgery**: Focused on pre- and post-surgical care  
+- **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care 
+- **Pediatrics**: Managed pediatric conditions, administered vaccinations, and monitored developmental milestones
 
 ---
 
 ## **Education**
-- **Mentored Clinical Research Training Program**  
-  University of California, Davis | *GPA: 3.46 (Current)*  
+- **Mentored Clinical Research Training Program**   
+  University of California, Davis *GPA: 3.46 (Current)*  | *June 2023 - Present*
 
 - **Family Medicine PhD** *(Incomplete due to war in Ukraine)*  
-  Uzhhorod National University  
+  Uzhhorod National University  | *July 2021 - February 2022*
 
 - **Master’s in Family Medicine (Residency)**  
-  Uzhhorod National University  
+  Uzhhorod National University | *July 2019 - July 2021*
 
 - **Medical Doctor**  
-  Uzhhorod National University | *GPA: 3.658*  
+  Uzhhorod National University  *GPA: 3.658*  | *September 2013 - June 2019*
 
 ---
 
 ## **Honors and Awards**
-- **Travel Award** | Clinical Research Education in Genome Science Short Course | *2024*  
+- **Travel Award** | Clinical Research Education in Genome Science Short Course | *August 2024*
+-  
 - **Pilot Grant** | Genotyping ($10,000) | *2024*  
 - **1st Place Poster Presentation** | Human Genomics Symposium | *2024*  
 - **Top 3 Finalist** | 3-Minute Thesis Oral Presentation | *2024*  
