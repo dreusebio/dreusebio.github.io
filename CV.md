@@ -41,13 +41,13 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
   their roles in early diagnosis and personalized treatment strategies
 
 ### **Postdoctoral Scholar**  
-**University of California, Davis** | *July 2022 – Present*  
+**University of California, Davis, CA, USA** | *July 2022 – Present*  
 - Conducting research on epigenetics, focusing on DNA methylation in neurodevelopmental disorders  
 - Published and presented findings at national and international conferences
 - Mentored 2 Pre-med Undergraduate students  
 
 ### **Assistant Lecturer, Family Medicine Department**  
-**Uzhhorod National University** | *September 2020 – June 2022*  
+**Uzhhorod National University, Uzhhorod, Ukraine** | *September 2020 – June 2022*  
 - Became the 1st international student employed to work as an assistant lecturer in the department 
   of Family Medicine
 - Designed and implemented curricula for Objective Structured Clinical Examinations (OSCE)  
@@ -55,13 +55,13 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 - Supervised students in clinical skill development through role-play and practical sessions  
 
 ### **Family Medicine Residency**  
-**Municipal Family Clinic, Uzhhorod National University** | *July 2019 – July 2021*  
+**Municipal Family Clinic, Uzhhorod National University, Uzhhorod, Ukraine** | *July 2019 – July 2021*  
 - Welcomed and prepared patients for consultations  
 - Measured and recorded vital signs, contributing to initial assessments  
 - Assisted physicians during examinations and participated in treatment planning  
 
 ### **Final Year Medical Internship**  
-**Transcarpathian Regional Hospital, Ukraine** | *September 2018 – July 2019*  
+**Transcarpathian Regional Hospital, Uzhhorod, Ukraine** | *September 2018 – July 2019*  
 - 3 Month Rotations in Surgery, Obstetrics and Gynecology, Pediatrics, and Internal Medicine  
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
 - **Surgery**: Focused on pre- and post-surgical care  
@@ -69,7 +69,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 - **Pediatrics**: Managed pediatric conditions, administered vaccinations, and monitored developmental milestones
 
 ### **Summer Medical Internship**
-**Parirenyatwa Group of Hospitals, University of Zimbabwe** | *May 2017 - August 2017*
+**Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2017 - August 2017*
 - Monthly rotations in Surgery, Obstetrics and Gynecology, Pediatrics and Internal Medicine
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
 - **Surgery**: Focused on pre- and post-surgical care  
@@ -77,7 +77,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 - **Pediatrics**: Managed pediatric conditions, administered vaccinations, and monitored developmental milestones
 
 ### **Summer Medical Internship**
-**Parirenyatwa Group of Hospitals, University of Zimbabwe** | *May 2016 - August 2016*
+**Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2016 - August 2016*
 - Monthly rotations in Surgery, Obstetrics and Gynecology, Pediatrics and Internal Medicine
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
 - **Surgery**: Focused on pre- and post-surgical care  
@@ -88,16 +88,16 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 
 ## **Education**
 - **Mentored Clinical Research Training Program**   
-  University of California, Davis *GPA: 3.46 (Current)*  | *June 2023 - Present*
+  University of California, Davis, CA, USA *GPA: 3.46 (Current)*  | *June 2023 - Present*
 
 - **Family Medicine PhD** *(Incomplete due to war in Ukraine)*  
-  Uzhhorod National University  | *July 2021 - February 2022*
+  Uzhhorod National University, Uzhhorod, Ukraine  | *July 2021 - February 2022*
 
 - **Master’s in Family Medicine (Residency)**  
-  Uzhhorod National University | *July 2019 - July 2021*
+  Uzhhorod National University, Uzhhorod, Ukraine | *July 2019 - July 2021*
 
 - **Medical Doctor**  
-  Uzhhorod National University  *GPA: 3.658*  | *September 2013 - June 2019*
+  Uzhhorod National University,Uzhhorod, Ukraine  *GPA: 3.658*  | *September 2013 - June 2019*
 
 ---
 
@@ -108,11 +108,11 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 
 1.  **Kuodza GE**, Kawai R, LaSalle JM. Intercontinental insights into autism spectrum disorder: a synthesis of environmental influences and DNA methylation. *Environ Epigenetics* [Internet]. 2024 Dec 19 [cited 2024 Dec 23];10(1):dvae023. Available from: [https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223](https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223)
 
-2. Hajdarevic S, Högberg C, Marzo-Castillejo M, Siliņa V, Sawicka-Powierza J, Esteva M, Koskela T, Petek D, Contreras-Martos S, Mangione M, Ožvačić Adžić Z, Asenova R, Gašparović Babić S, Brekke M, Buczkowski K, Buono N, Çifçili SS, Dinant GJ, Doorn B, Hoffman RD, **Kuodza G**, et al . Exploring why European primary care physicians sometimes do not think of, or act on, a possible cancer diagnosis: A qualitative study. *BJGP Open* [Internet]. 2023 Dec [cited 2024 Dec 23];7(4):BJGPO.2023.0029. Available from: [http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029](http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029) 
+2. Hajdarevic S, Högberg C, Marzo-Castillejo M, Siliņa V, Sawicka-Powierza J, Esteva M, Koskela T, Petek D, Contreras-Martos S, Mangione M, Ožvačić Adžić Z, Asenova R, Gašparović Babić S, Brekke M, Buczkowski K, Buono N, Çifçili SS, Dinant GJ, Doorn B, Hoffman RD, **Kuodza G**, Murchie P, Pilv L, Puia A, Rapalavicius A, Smyrnakis E, Weltermann B, Harris M. Exploring why European primary care physicians sometimes do not think of, or act on, a possible cancer diagnosis: A qualitative study. *BJGP Open* [Internet]. 2023 Dec [cited 2024 Dec 23];7(4):BJGPO.2023.0029. Available from: [http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029](http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029) 
 
-3. Shushman I, Kolesnyk A, Kolesnyk P, **Kuodza G**, Mykyta I, Bayen S, et al. Validation of a modified questionnaire to assess Ukrainian Family Physicians’ readiness to implement the evidence-based screening recommendations into their clinical practice, using a mixed method study. *BMC Prim Care*. 2022;23(1). Available from: [https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4](https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4) 
+3. Shushman I, Kolesnyk A, Kolesnyk P, **Kuodza G**, Mykyta I, Bayen S, Frese T. Validation of a modified questionnaire to assess Ukrainian Family Physicians’ readiness to implement the evidence-based screening recommendations into their clinical practice, using a mixed method study. *BMC Prim Care*. 2022;23(1). Available from: [https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4](https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4) 
 
-4. Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, **Kuodza G**, Klemenc-Ketič Z, et al. Identification and Ranking of Core Values in Family Medicine: A Mixed Methods Study From Ukraine. *Front Med* [Internet]. 2021 Mar 22 [cited 2024 Dec 23];8:646276. Available from: [https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full](https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full)
+4. Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, **Kuodza G**, Klemenc-Ketič Z, Frese T. Identification and Ranking of Core Values in Family Medicine: A Mixed Methods Study From Ukraine. *Front Med* [Internet]. 2021 Mar 22 [cited 2024 Dec 23];8:646276. Available from: [https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full](https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full)
 
 5. **Kuodza GE**, Kolesnyk PO. An antibiotic drug-induced allergic reaction in a patient with multiple comorbidities. *Clinical Case*. *Achievements of Clinical and Experimental Medicine* [Internet]. 2020 Aug 20 [cited 2024 Dec 23];(2):211–4. Available from: [https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348](https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348)
 
@@ -157,29 +157,37 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 ## **Presentations**
 
 ### **Oral**
-1.  Uzhhorod Medical Students Conference, Uzhhorod | *April 2018*
-2.  Art of Medical Oration 4th Annual Conference, Uzhhorod | *May 2018*
-3.  Uzhhorod Medical Students Conference, Internal Medicine Division, Uzhhorod | *April 2019*
-4.  
+1. Uzhhorod Medical Students Conference (UMESCO), Uzhhorod, Ukraine | *April 2018*
+2. Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
+3. Uzhhorod Medical Students Conference (UMESCO), Internal Medicine Division, Uzhhorod Ukraine| *April 2019*
+4. Uzhhorod Medical Students Conference (UMESCO), Family Medicine Division, Uzhhorod, Ukraine | *April 2019*
+5. World Organization of Family Doctors (WONCA), Bratislava, Slovakia | *June 2019*
+6. Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
+7. ABC course for Young Scientists, Uzhhorod, Ukraine | *October 2019*
+8. Achievements of Clinical and Experimental Medicine Ternopil University, Online(COVID) | *June 2020*
+9. 11th Annual Scientific and Practical Conference for Family Doctors with International Participation, Online(COVID) | *December 2020*
+10. World Organization of Family Doctors (WONCA), Online(COVID) | *December 2020*
+11. 
 
-### **Oral**
-1.  American Society of Human Genetics, Washington DC | *November 2018*
-2.  
+### **Poster**
+1. Genome Center Halloween Symposium, University of California, Davis, CA, USA | *October 2023*
+2. American Society of Human Genetics (ASHG), Washington DC, USA | *November 2023*
+3. 10th Annual UC Davis Human Genomics Symposium 2023
 
 ---
 
 ## **Honors and Awards**
-1. **Travel Award** | Clinical Research Education in Genome Science Short Course, NY | *August 2024*
+1. **Travel Award** | Clinical Research Education in Genome Science Short Course, NY, USA | *August 2024*
 2. **3rd place Oral Presentation** | African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
-3. **Top 3 Finalist at the 3-Minute Thesis Oral Presentation** | Association of Clinical and Translational Science Conference, NV | *April 2024*
-4. **Trainee Pilot Grant for Genotyping an ASD Structural Variant ($10,000)**, Human Genomics Focus Group, University of California, Davis, CA | *June 2023*
-5. **1st place Poster Presentation** | 10th Annual Human Genomics Symposium, University of California, Davis, CA  | *November 2024*  
+3. **Top 3 Finalist at the 3-Minute Thesis Oral Presentation** | Association of Clinical and Translational Science Conference, NV, USA | *April 2024*
+4. **Trainee Pilot Grant for Genotyping an ASD Structural Variant ($10,000)**, Human Genomics Focus Group, University of California, Davis, CA, USA | *June 2023*
+5. **1st place Poster Presentation** | 10th Annual Human Genomics Symposium, University of California, Davis, CA, USA  | *November 2024*  
 6. **Travel Award** | The Whole Scientist Short Course – Jackson Laboratory, CT | *September 2024*  
-7. **Pilot Grant for Lipidomics ($2,000)** | Genome Center, University of California, Davis, CA |   *September 2024*
-8. **1st place Poster Presentation** | Young Scientist Presenters among Family Doctors at the Ukrainian Association of Family Doctors Conference, Ukraine | *June 2019*
-9. **3rd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Ukraine | *April 2019*
-10. **2nd place Oral Presentation** |Art of Medical Oration 4th Annual Conference, Ukraine | *May 2018*
-11. **2nd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Ukraine | *April 2018*
+7. **Pilot Grant for Lipidomics ($2,000)** | Genome Center, University of California, Davis, CA, USA |   *September 2024*
+8. **1st place Poster Presentation** | Young Scientist Presenters among Family Doctors at the Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
+9. **3rd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Uzhhorod, Ukraine | *April 2019*
+10. **2nd place Oral Presentation** |Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
+11. **2nd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Uzhhorod, Ukraine | *April 2018*
 
 ---
 
