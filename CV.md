@@ -165,14 +165,26 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 6. Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
 7. ABC course for Young Scientists, Uzhhorod, Ukraine | *October 2019*
 8. Achievements of Clinical and Experimental Medicine Ternopil University, Online(COVID) | *June 2020*
-9. 11th Annual Scientific and Practical Conference for Family Doctors with International Participation, Online(COVID) | *December 2020*
-10. World Organization of Family Doctors (WONCA), Online(COVID) | *December 2020*
-11. 
+9. 11th Annual Scientific and Practical Conference for Family Doctors with International Participation, Online (COVID) | *December 2020*
+10. World Organization of Family Doctors (WONCA), Online (COVID) | *December 2020*
+11. 8th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *March 2023*
+12. Association for Clinical and Translational Science, NV, USA | *April 2024*
+13. Genome Center Research Retreat | *April 2024*
+14. African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
+15. 9th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2024*
+16. 20th Annual Clinical Translational Science Center (CTSC) Scholar Symposium, University of California, Davis, CA, USA | *May 2024*
+17. Human Genomics Focus Group, University of California, Davis, CA, USA | *September 2024*
+18. 
+
 
 ### **Poster**
 1. Genome Center Halloween Symposium, University of California, Davis, CA, USA | *October 2023*
-2. American Society of Human Genetics (ASHG), Washington DC, USA | *November 2023*
-3. 10th Annual UC Davis Human Genomics Symposium 2023
+2. American Society of Human Genetics (ASHG), DC, USA | *November 2023*
+3. 10th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2023*
+4. Association for Clinical and Translational Science, NV, USA | *April 2024*
+5. Genome Center Halloween Symposium, University of California, Davis, CA, USA | *October 2024*
+6. American Society of Human Genetics (ASHG), CO, USA | *November 2024*
+7. 11th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2024*
 
 ---
 
