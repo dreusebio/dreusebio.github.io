@@ -65,8 +65,8 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 - 3 Month Rotations in Surgery, Obstetrics and Gynecology, Pediatrics, and Internal Medicine  
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
 - **Surgery**: Focused on pre- and post-surgical care  
-- **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care 
-- **Pediatrics**: Managed pediatric conditions, administered vaccinations, and monitored developmental milestones
+- **Obstetrics and Gynecology**: Observed and discussed complicated and interesting clinical cases
+- **Pediatrics**: Visited patients in the ward conditions and discussed treatment plans with attending physician, observed administration vaccinations, and monitored developmental milestones
 
 ### **Summer Medical Internship**
 **Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2017 - August 2017*
@@ -74,7 +74,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
 - **Surgery**: Focused on pre- and post-surgical care  
 - **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care 
-- **Pediatrics**: Managed pediatric conditions, administered vaccinations, and monitored developmental milestones
+- **Pediatrics**:Visited patients in the ward conditions and discussed treatment plans with attending physician, observed administration vaccinations, and monitored developmental milestones
 
 ### **Summer Medical Internship**
 **Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2016 - August 2016*
@@ -82,7 +82,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
 - **Surgery**: Focused on pre- and post-surgical care  
 - **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care 
-- **Pediatrics**: Managed pediatric conditions, administered vaccinations, and monitored developmental milestones
+- **Pediatrics**: Visited patients in the ward conditions and discussed treatment plans with attending physician, observed administration vaccinations, and monitored developmental milestones
 
 ---
 
