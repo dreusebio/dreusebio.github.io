@@ -154,6 +154,18 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 
 ---
 
+## **Presentations**
+
+### **Oral**
+1.  Uzhgorod Medical Students Conference | *April 2018*
+2.  Art of Medical Oration 4th Annual Conference | *May 2018*
+3.  Uzhgorod Medical Students Conference, Internal Medicine Division | *April 2019*
+4.  
+
+5. Hajdarevic S, Högberg C, Marzo-Castillejo M, Siliņa V, Sawicka-Powierza J, Esteva M, Koskela T, Petek D, Contreras-Martos S, Mangione M, Ožvačić Adžić Z, Asenova R, Gašparović Babić S, Brekke M, Buczkowski K, Buono N, Çifçili SS, Dinant GJ, Doorn B, Hoffman RD, **Kuodza G**, et al . Exploring why European primary care physicians sometimes do not think of, or act on, a possible cancer diagnosis: A qualitative study. *BJGP Open* [Internet]. 2023 Dec [cited 2024 Dec 23];7(4):BJGPO.2023.0029. Available from: [http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029](http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029) 
+
+---
+
 ## **Honors and Awards**
 1. **Travel Award** | Clinical Research Education in Genome Science Short Course, NY | *August 2024*
 2. **3rd place Oral Presentation** | African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
