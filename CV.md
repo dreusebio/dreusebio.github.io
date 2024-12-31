@@ -181,9 +181,10 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 2. American Society of Human Genetics (ASHG), DC, USA | *November 2023*
 3. 10th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2023*
 4. Association for Clinical and Translational Science, NV, USA | *April 2024*
-5. Genome Center Halloween Symposium, University of California, Davis, CA, USA | *October 2024*
-6. American Society of Human Genetics (ASHG), CO, USA | *November 2024*
-7. 11th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2024*
+5. Environmental Health Sciences Center's Annual Retreat, University of California, Davis, CA, USA | *October 2024*
+6. Genome Center Halloween Symposium, University of California, Davis, CA, USA | *October 2024*
+7. American Society of Human Genetics (ASHG), CO, USA | *November 2024*
+8. 11th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2024*
 
 ---
 
