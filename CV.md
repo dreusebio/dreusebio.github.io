@@ -193,9 +193,9 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 2. **3rd place Oral Presentation** | African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
 3. **Top 3 Finalist at the 3-Minute Thesis Oral Presentation** | Association of Clinical and Translational Science Conference, NV, USA | *April 2024*
 4. **Trainee Pilot Grant for Genotyping an ASD Structural Variant ($10,000)**, Human Genomics Focus Group, University of California, Davis, CA, USA | *June 2023*
-5. **1st place Poster Presentation** | 10th Annual Human Genomics Symposium, University of California, Davis, CA, USA  | *November 2024*  
-6. **Travel Award** | The Whole Scientist Short Course – Jackson Laboratory, CT | *September 2024*  
-7. **Pilot Grant for Lipidomics ($2,000)** | Genome Center, University of California, Davis, CA, USA |   *September 2024*
+5. **1st place Poster Presentation** | 10th Annual Human Genomics Symposium, University of California, Davis, CA, USA  | *November 2023*  
+6. **Travel Award** | The Whole Scientist Short Course – Jackson Laboratory, CT | *September 2022*  
+7. **Pilot Grant for Lipidomics ($2,000)** | Genome Center, University of California, Davis, CA, USA |   *September 2022*
 8. **1st place Poster Presentation** | Young Scientist Presenters among Family Doctors at the Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
 9. **3rd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Uzhhorod, Ukraine | *April 2019*
 10. **2nd place Oral Presentation** |Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
