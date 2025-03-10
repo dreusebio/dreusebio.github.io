@@ -24,6 +24,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:gekuodza@ucdavis.edu"}
   - {title: Github, icon: github, url: "https://github.com/dreusebio"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/george-eusebio-kuodza-89178314b/"}
   - {title: Twitter, icon: twitter, url: "https://x.com/GKuodza"}
   - {title: Bluesky, icon: user, url: "https://bsky.app/profile/gekuodza.bsky.social"}
   
