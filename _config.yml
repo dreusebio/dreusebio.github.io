@@ -25,6 +25,8 @@ external:                  # shows a footer with social links - for available ic
   - {title: Mail, icon: envelope, url: "mailto:gekuodza@ucdavis.edu"}
   - {title: Github, icon: github, url: "https://github.com/dreusebio"}
   - {title: Twitter, icon: twitter, url: "https://x.com/GKuodza"}
+  - {title: Bluesky, icon: user, url: "https://bsky.app/profile/gekuodza.bsky.social"}
+  
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
