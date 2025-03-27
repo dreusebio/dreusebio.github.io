@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # George Eusebio Kuodza  
 *Postdoctoral Scholar in Epigenetics*  
-[LinkedIn](https://www.linkedin.com/in/george-kuodza-89178314b/) | [GitHub](https://github.com/dreusebio) | [Website](https://dreusebio.github.io/)  
+[LinkedIn](https://www.linkedin.com/in/george-eusebio-kuodza-89178314b/) | [GitHub](https://github.com/dreusebio) | [Website](https://dreusebio.github.io/)  
 **Email**: gekuodza@ucdavis.edu | **Phone**: 530-752-7207  
 
 ---
