@@ -31,9 +31,9 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 
 ### **Codeathon Researcher**
 **African Society for Bioinformatics and Computational Biology** | *Feb 2024 - July 2024*
-- Analyzed 3 public datasets from Gene Expression Omnibus (GEO) to identify differentially expressed 
-  genes (DEGs) and differentially methylated regions (DMRs) in hippocampal and neocortex tissues of 
-  mesial temporal lobe epilepsy (mTLE) patients using an in-silico approach
+- I was the **team lead** and we analyzed 3 public datasets from Gene Expression Omnibus (GEO) to identify 
+  differentially expressed genes (DEGs) and differentially methylated regions (DMRs) in hippocampal and neocortex 
+  tissues of mesial temporal lobe epilepsy (mTLE) patients using an in-silico approach
 - Identified 2139 DEGs and 2195 DMRs, significantly enriched in pathways related to gliogenesis, 
   immune response, ion transport, neuron projection development, synapse assembly, and signal 
   transduction
@@ -42,9 +42,9 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 
 ### **Postdoctoral Scholar**  
 **University of California, Davis, CA, USA** | *July 2022 – Present*  
-- Conducting research on epigenetics, focusing on DNA methylation in neurodevelopmental disorders  
+- Researching epigenetics, focusing on DNA methylation in neurodevelopmental disorders and cancer  
 - Published and presented findings at national and international conferences
-- Mentored 2 Pre-med Undergraduate students  
+- Mentored 2 Pre-med Undergraduate students and 2 international students
 
 ### **Assistant Lecturer, Family Medicine Department**  
 **Uzhhorod National University, Uzhhorod, Ukraine** | *September 2020 – June 2022*  
