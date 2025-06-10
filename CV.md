@@ -102,7 +102,8 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ---
 ## **Current Projects**
  - **Multigenerational inheritance of DNA methylation signatures in autism spectrum disorders**:
-     The focus of this project is to try to understand if grandparental and parental environmental exposures, such as smoking, can be associated with ASD in their grandchildren. This study utilizes data from whole-genome bisulfite sequencing of saliva and newborn dried blood spots.
+
+   The focus of this project is to try to understand if grandparental and parental environmental exposures, such as smoking, can be associated with ASD in their grandchildren. This study utilizes data         from whole-genome bisulfite sequencing of saliva and newborn dried blood spots.
    
 - **Parental and grandparental exposome and breast cancer biomarkers in daughters and granddaughters**
     This project is focused on understanding the risk factors for breast cancer and how they are related to DNA methylation changes.
