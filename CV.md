@@ -102,19 +102,19 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ---
 ## **Current Projects**
  - **Multigenerational inheritance of DNA methylation signatures in autism spectrum disorders**
- - The focus of this project is to try to understand if grandparental and parental environmental exposures, such as smoking, can be associated with ASD in their grandchildren. This study utilizes data from whole-genome bisulfite sequencing of saliva and newborn dried blood spots.
+   The focus of this project is to try to understand if grandparental and parental environmental exposures, such as smoking, can be associated with ASD in their grandchildren. This study utilizes data from whole-genome bisulfite sequencing of saliva and newborn dried blood spots.
    
 - **Parental and grandparental exposome and breast cancer biomarkers in daughters and granddaughters**
-- This project is focused on understanding the risk factors for breast cancer and how they are related to DNA methylation changes.
+  This project is focused on understanding the risk factors for breast cancer and how they are related to DNA methylation changes.
   
 - **Detect Signs of Early Life Exposures in Midlife to Prevent Breast Cancer Inequities**
-- The goal of this project is to detect early life exposures associated with breast cancer.
+  The goal of this project is to detect early life exposures associated with breast cancer.
   
 - **Goals for Reaching Optimal Wellness (GROWell)**
-- It is a clinical trial focused on understanding the effect of a digital dietary intervention for pregnant and postpartum individuals with prenatal overweight or obesity.
+  It is a clinical trial focused on understanding the effect of a digital dietary intervention for pregnant and postpartum individuals with prenatal overweight or obesity.
 
 - **Genotyping of a structural variant associated with increased autism risk**
-- This project is focused on understanding how the genotype for the NHIP structural variant is associated with ASD.​
+  This project is focused on understanding how the genotype for the NHIP structural variant is associated with ASD.​
 
 ---
 
