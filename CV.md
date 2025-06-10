@@ -11,7 +11,7 @@ title: Curriculum Vitae
 ---
 
 ## **Professional Summary**
-Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics and a final-year student in a master’s program for clinical research at the University of California, Davis. Passionate about understanding the epigenetic mechanisms underlying neurodevelopmental disorders, particularly autism spectrum disorder (ASD). Focused on exploring how environmental exposure interacts with DNA methylation to influence health outcomes across generations.
+Hardworking and enthusiastic postdoctoral scholar in the field of genetics and epigenetics at the University of California, Davis. Passionate about understanding the epigenetic mechanisms underlying neurodevelopmental disorders, particularly autism spectrum disorder (ASD). Focused on exploring how environmental exposure interacts with DNA methylation to influence health outcomes across generations.
 
 ---
 
@@ -44,7 +44,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 **University of California, Davis, CA, USA** | *July 2022 – Present*  
 - Researching epigenetics, focusing on DNA methylation in neurodevelopmental disorders and cancer  
 - Published and presented findings at national and international conferences
-- Mentored 2 Pre-med Undergraduate students and 2 international students
+- Mentored 3 Pre-med Undergraduate students and 2 international students
 
 ### **Assistant Lecturer, Family Medicine Department**  
 **Uzhhorod National University, Uzhhorod, Ukraine** | *September 2020 – June 2022*  
@@ -87,8 +87,8 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 ---
 
 ## **Education**
-- **Mentored Clinical Research Training Program**   
-  University of California, Davis, CA, USA *GPA: 3.46 (Current)*  | *June 2023 - Present*
+- **Master's of Advanced Study in Clinical Research**   
+  University of California, Davis, CA, USA *GPA: 3.46*  | *June 2023 - June 2025*
 
 - **Family Medicine PhD** *(Incomplete due to war in Ukraine)*  
   Uzhhorod National University, Uzhhorod, Ukraine  | *July 2021 - February 2022*
@@ -100,23 +100,37 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
   Uzhhorod National University,Uzhhorod, Ukraine  *GPA: 3.658*  | *September 2013 - June 2019*
 
 ---
+## **Current Projects**
+- **Multigenerational inheritance of DNA methylation signatures in autism spectrum disorders**
+  The focus of this project is to try and understand if grandparental and parental environmental exposures such as smoking can be associated with ASD in their grandchildren. This uses data from whole genome bisulfite sequencing from saliva and newborn dried blood spots.
+- **Parental and grandparental exposome and breast cancer biomarkers in daughters and granddaughters**
+  This project is focused on understanding the risk factors for breast cancer and how they are related to DNA methylation changes.
+- **Detect Signs of Early Life Exposures in Midlife to Prevent Breast Cancer Inequities**
+ The goal of this project is to detect early life exposures associated with breast cancer.
+- **Goals for Reaching Optimal Wellness (GROWell)**
+  It is a clinical trial focused on understanding the effect of a digital dietary intervention for pregnant and postpartum individuals with prenatal overweight or obesity.
+- **Genotyping of a structural variant associated with increased autism risk**
+  This project is focused on understanding how the genotype for NHIP structural variant is associated with ASD.​
 
+---
 
 ## **Publications**
 
 ### **Articles**
 
-1.  **Kuodza GE**, Kawai R, LaSalle JM. Intercontinental insights into autism spectrum disorder: a synthesis of environmental influences and DNA methylation. *Environ Epigenetics* [Internet]. 2024 Dec 19 [cited 2024 Dec 23];10(1):dvae023. Available from: [https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223](https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223)
+1. 	 Mouat JS, Krigbaum NY, Hakam S, Thrall E, **Kuodza GE**, Mellis J, Yasui DH, Cirillo PM, Ludena Y, Schmidt RJ, La Merrill MA, Hertz-Picciotto I, Cohn BA, LaSalle JM. Sex-specific DNA methylation signatures of autism spectrum disorder from whole genome bisulfite sequencing of newborn blood . *bioRxiv* [Preprint]. 2024 Dec 2:2024.07.11.603098. doi: 10.1101/2024.07.11.603098. Update in: *Biol Sex Differ*. 2025 Apr 30;16(1):30. doi: 10.1186/s13293-025-00712-9. PMID: 39026708; PMCID: PMC11257592. Available from: [https://bsd.biomedcentral.com/articles/10.1186/s13293-025-00712-9](https://bsd.biomedcentral.com/articles/10.1186/s13293-025-00712-9) 
 
-2. Hajdarevic S, Högberg C, Marzo-Castillejo M, Siliņa V, Sawicka-Powierza J, Esteva M, Koskela T, Petek D, Contreras-Martos S, Mangione M, Ožvačić Adžić Z, Asenova R, Gašparović Babić S, Brekke M, Buczkowski K, Buono N, Çifçili SS, Dinant GJ, Doorn B, Hoffman RD, **Kuodza G**, Murchie P, Pilv L, Puia A, Rapalavicius A, Smyrnakis E, Weltermann B, Harris M. Exploring why European primary care physicians sometimes do not think of, or act on, a possible cancer diagnosis: A qualitative study. *BJGP Open* [Internet]. 2023 Dec [cited 2024 Dec 23];7(4):BJGPO.2023.0029. Available from: [http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029](http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029) 
+2.  **Kuodza GE**, Kawai R, LaSalle JM. Intercontinental insights into autism spectrum disorder: a synthesis of environmental influences and DNA methylation. *Environ Epigenetics* [Internet]. 2024 Dec 19 [cited 2024 Dec 23];10(1):dvae023. Available from: [https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223](https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223)
 
-3. Shushman I, Kolesnyk A, Kolesnyk P, **Kuodza G**, Mykyta I, Bayen S, Frese T. Validation of a modified questionnaire to assess Ukrainian Family Physicians’ readiness to implement the evidence-based screening recommendations into their clinical practice, using a mixed method study. *BMC Prim Care*. 2022;23(1). Available from: [https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4](https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4) 
+3. Hajdarevic S, Högberg C, Marzo-Castillejo M, Siliņa V, Sawicka-Powierza J, Esteva M, Koskela T, Petek D, Contreras-Martos S, Mangione M, Ožvačić Adžić Z, Asenova R, Gašparović Babić S, Brekke M, Buczkowski K, Buono N, Çifçili SS, Dinant GJ, Doorn B, Hoffman RD, **Kuodza G**, Murchie P, Pilv L, Puia A, Rapalavicius A, Smyrnakis E, Weltermann B, Harris M. Exploring why European primary care physicians sometimes do not think of, or act on, a possible cancer diagnosis: A qualitative study. *BJGP Open* [Internet]. 2023 Dec [cited 2024 Dec 23];7(4):BJGPO.2023.0029. Available from: [http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029](http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029) 
 
-4. Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, **Kuodza G**, Klemenc-Ketič Z, Frese T. Identification and Ranking of Core Values in Family Medicine: A Mixed Methods Study From Ukraine. *Front Med* [Internet]. 2021 Mar 22 [cited 2024 Dec 23];8:646276. Available from: [https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full](https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full)
+4. Shushman I, Kolesnyk A, Kolesnyk P, **Kuodza G**, Mykyta I, Bayen S, Frese T. Validation of a modified questionnaire to assess Ukrainian Family Physicians’ readiness to implement the evidence-based screening recommendations into their clinical practice, using a mixed method study. *BMC Prim Care*. 2022;23(1). Available from: [https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4](https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4) 
 
-5. **Kuodza GE**, Kolesnyk PO. An antibiotic drug-induced allergic reaction in a patient with multiple comorbidities. *Clinical Case*. *Achievements of Clinical and Experimental Medicine* [Internet]. 2020 Aug 20 [cited 2024 Dec 23];(2):211–4. Available from: [https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348](https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348)
+5. Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, **Kuodza G**, Klemenc-Ketič Z, Frese T. Identification and Ranking of Core Values in Family Medicine: A Mixed Methods Study From Ukraine. *Front Med* [Internet]. 2021 Mar 22 [cited 2024 Dec 23];8:646276. Available from: [https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full](https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full)
 
-6. **Kuodza G**, Kolesnyk A, Kolesnyk P, Matyukha L. Who Wants to be a Family Doctor in Ukraine? An Opinion Survey among Senior Undergraduate Students. *Recipe* [Internet]. 2020 Jul 21 [cited 2024 Dec 23];(2–3):248–57. Available from: [https://recipe.recipe.by/ru/?editions=2020-tom-23-n-2-3&group_id=item_0&article_id=line_7](https://recipe.recipe.by/ru/?editions=2020-tom-23-n-2-3&group_id=item_0&article_id=line_7)
+6. **Kuodza GE**, Kolesnyk PO. An antibiotic drug-induced allergic reaction in a patient with multiple comorbidities. *Clinical Case*. *Achievements of Clinical and Experimental Medicine* [Internet]. 2020 Aug 20 [cited 2024 Dec 23];(2):211–4. Available from: [https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348](https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348)
+
+7. **Kuodza G**, Kolesnyk A, Kolesnyk P, Matyukha L. Who Wants to be a Family Doctor in Ukraine? An Opinion Survey among Senior Undergraduate Students. *Recipe* [Internet]. 2020 Jul 21 [cited 2024 Dec 23];(2–3):248–57. Available from: [https://recipe.recipe.by/ru/?editions=2020-tom-23-n-2-3&group_id=item_0&article_id=line_7](https://recipe.recipe.by/ru/?editions=2020-tom-23-n-2-3&group_id=item_0&article_id=line_7)
 
 ### **Abstracts**
 
@@ -157,49 +171,59 @@ Hardworking and enthusiastic postdoctoral scholar in the field of epigenetics an
 ## **Presentations**
 
 ### **Oral**
-1. Uzhhorod Medical Students Conference (UMESCO), Uzhhorod, Ukraine | *April 2018*
-2. Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
-3. Uzhhorod Medical Students Conference (UMESCO), Internal Medicine Division, Uzhhorod Ukraine| *April 2019*
-4. Uzhhorod Medical Students Conference (UMESCO), Family Medicine Division, Uzhhorod, Ukraine | *April 2019*
-5. World Organization of Family Doctors (WONCA), Bratislava, Slovakia | *June 2019*
-6. Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
-7. ABC course for Young Scientists, Uzhhorod, Ukraine | *October 2019*
-8. Achievements of Clinical and Experimental Medicine Ternopil University, Online (COVID) | *June 2020*
-9. 11th Annual Scientific and Practical Conference for Family Doctors with International Participation, Online (COVID) | *December 2020*
-10. World Organization of Family Doctors (WONCA), Online (COVID) | *December 2020*
-11. 8th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *March 2023*
-12. Association for Clinical and Translational Science, NV, USA | *April 2024*
-13. Genome Center Research Retreat | *April 2024*
-14. African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
-15. 9th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2024*
-16. 20th Annual Clinical Translational Science Center (CTSC) Scholar Symposium, University of California, Davis, CA, USA | *May 2024*
-17. Human Genomics Focus Group, University of California, Davis, CA, USA | *September 2024*
+
+1. Juneteenth Symposium, University of California, Davis, CA, USA | *June 2025*
+2. 21th Annual Clinical Translational Science Center (CTSC) Scholar Symposium, University of California, Davis, CA, USA | *June 2025*
+3. 10th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2025*
+4. Human Genomics Focus Group (HGFG), University of California, Davis, CA, USA | *September 2024*
+5. 20th Annual Clinical Translational Science Center (CTSC) Scholar Symposium, University of California, Davis, CA, USA | *May 2024*
+6. 9th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2024*
+7. African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
+8. Genome Center Research Retreat,University of California, Davis, CA, USA | *April 2024*
+9. Association for Clinical and Translational Science, Las Vegas, NV, USA | *April 2024*
+10. 8th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *March 2023*
+11. World Organization of Family Doctors (WONCA), Online (COVID) | *December 2020*
+12. 11th Annual Scientific and Practical Conference for Family Doctors with International Participation, Online (COVID) | *December 2020*
+13. Achievements of Clinical and Experimental Medicine Ternopil University, Online (COVID) | *June 2020*
+14. ABC course for Young Scientists, Uzhhorod, Ukraine | *October 2019*
+15. Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
+16. World Organization of Family Doctors (WONCA), Bratislava, Slovakia | *June 2019*
+17. Uzhhorod Medical Students Conference (UMESCO), Family Medicine Division, Uzhhorod, Ukraine | *April 2019*
+18. Uzhhorod Medical Students Conference (UMESCO), Internal Medicine Division, Uzhhorod Ukraine| *April 2019*
+19. Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
+20. Uzhhorod Medical Students Conference (UMESCO), Uzhhorod, Ukraine | *April 2018*
 
 ### **Poster**
 
-1. Genome Center Halloween Symposium, University of California, Davis, CA, USA | *October 2023*
-2. American Society of Human Genetics (ASHG), DC, USA | *November 2023*
-3. 10th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2023*
-4. Association for Clinical and Translational Science, NV, USA | *April 2024*
-5. Environmental Health Sciences Center's Annual Retreat, University of California, Davis, CA, USA | *October 2024*
+1.  Krebs Symposium, University of California, Davis, CA, USA | *April 2025*
+2. International Society of Autism Research (INSAR), Seattle, WA, USA | *April 2025*
+3. 2nd Annual Women’s History Month Symposium, University of California, Davis, CA, USA | *March 2025*
+4. 11th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2024*
+5. American Society of Human Genetics (ASHG), CO, USA | *November 2024*
 6. Genome Center Halloween Symposium, University of California, Davis, CA, USA | *October 2024*
-7. American Society of Human Genetics (ASHG), CO, USA | *November 2024*
-8. 11th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2024*
+7. Environmental Health Sciences Center's Annual Retreat, University of California, Davis, CA, USA | *October 2024*
+8. Association for Clinical and Translational Science, NV, USA | *April 2024*
+9. 10th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2023*
+10. American Society of Human Genetics (ASHG), DC, USA | *November 2023*
+11. Genome Center Halloween Symposium, University of California, Davis, CA, USA | *October 2023*
 
 ---
 
 ## **Honors and Awards**
-1. **Travel Award** | Clinical Research Education in Genome Science Short Course, NY, USA | *August 2024*
-2. **3rd place Oral Presentation** | African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
-3. **Top 3 Finalist at the 3-Minute Thesis Oral Presentation** | Association of Clinical and Translational Science Conference, NV, USA | *April 2024*
-4. **Trainee Pilot Grant for Genotyping an ASD Structural Variant ($10,000)**, Human Genomics Focus Group, University of California, Davis, CA, USA | *June 2023*
-5. **1st place Poster Presentation** | 10th Annual Human Genomics Symposium, University of California, Davis, CA, USA  | *November 2023*  
-6. **Travel Award** | The Whole Scientist Short Course – Jackson Laboratory, CT | *September 2022*  
-7. **Pilot Grant for Lipidomics ($2,000)** | Genome Center, University of California, Davis, CA, USA |   *September 2022*
-8. **1st place Poster Presentation** | Young Scientist Presenters among Family Doctors at the Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
-9. **3rd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Uzhhorod, Ukraine | *April 2019*
-10. **2nd place Oral Presentation** |Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
-11. **2nd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Uzhhorod, Ukraine | *April 2018*
+1. **2nd place Oral Presentation** | 10th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2025*
+2. **Barry Wolfe and Jacqueline Crawley Travel Award** | University of California, Davis, CA, USA | *April 2025*
+3. **Travel Award** | International Society of Autism Research (INSAR), Seattle, WA, USA | *April 2025*
+4. **Travel Award** | Clinical Research Education in Genome Science Short Course, NY, USA | *August 2024*
+5. **3rd place Oral Presentation** | African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
+6. **Top 3 Finalist at the 3-Minute Thesis Oral Presentation** | Association of Clinical and Translational Science Conference, NV, USA | *April 2024*
+7. **Trainee Pilot Grant for Genotyping an ASD Structural Variant ($10,000)**, Human Genomics Focus Group, University of California, Davis, CA, USA | *June 2023*
+8. **1st place Poster Presentation** | 10th Annual Human Genomics Symposium, University of California, Davis, CA, USA  | *November 2023*  
+9. **Travel Award** | The Whole Scientist Short Course – Jackson Laboratory, CT | *September 2022*  
+10. **Pilot Grant for Lipidomics ($2,000)** | Genome Center, University of California, Davis, CA, USA |   *September 2022*
+11. **1st place Poster Presentation** | Young Scientist Presenters among Family Doctors at the Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
+12. **3rd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Uzhhorod, Ukraine | *April 2019*
+13. **2nd place Oral Presentation** |Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
+14. **2nd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Uzhhorod, Ukraine | *April 2018*
 
 ---
 
