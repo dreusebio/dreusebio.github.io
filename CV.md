@@ -18,7 +18,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ## **Key Skills**
 - **Intermediate/Advanced bioinformatics experience**: R (primary), SAS, Python, Github, Shell)   
 - **Data Analysis**: DNA methylation calling(WGBS), Lipidomics
-- **Quantitative Analysis**: Statistical Modeling (linear, logistic, generalized linear models, and ANOVA) and Network and Correlation Analysis
+- **Quantitative Analysis**: Statistical Modeling (linear, logistic, generalized linear models, and ANOVA), Machine Learning (random forest PLSDA, and SVM) and Network and Correlation Analysis
 - **Communication**: Strong oral and written communication skills
 - **Wet Lab**: DNA isolation (saliva, buffy coat, newborn dried blood spots), designing primers, and performing PCR
 - **Team Work**: Collaboration, Interpersonal skills
