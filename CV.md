@@ -253,11 +253,11 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ---
 
 ## **Media/News Coverage**
-1. TV Ungvar Interview – Uzhhorod National University and International Collaboration
+1. **TV Ungvar Interview** – Uzhhorod National University and International Collaboration
 Featured in a televised segment by TV Ungvar, highlighting Uzhhorod National University's efforts in developing international collaborations. At the time, I was a PhD student in Family Medicine.
-– Appearance timestamps: 1:27–2:02 and 8:30–9:00
-– Watch the full interview: [https://www.youtube.com/watch?v=mMi0e8vTMcA&list=PLUmypCef-jpKMwutK9LwMk449ZzUEP8_Z&ab_channel=Tv21%D0%A3%D0%BD%D0%B3%D0%B2%D0%B0%D1%80](https://www.youtube.com/watch?v=mMi0e8vTMcA&list=PLUmypCef-jpKMwutK9LwMk449ZzUEP8_Z&ab_channel=Tv21%D0%A3%D0%BD%D0%B3%D0%B2%D0%B0%D1%80)
-2. This was an interview hosted by TV Ungvar. The goal of the interview was to highlight how Uzhhorod University is actively developing international collaboration. At the time, I was a PhD student in Family Medicine. I'm featured at 1:27-2:02 and  8:30-9:00.  [Internet]. 2024 [cited 2024 Dec 23]. 
+– *Appearance timestamps*: 1:27–2:02 and 8:30–9:00
+– *Watch the full interview*: [https://www.youtube.com/watch?v=mMi0e8vTMcA&list=PLUmypCef-jpKMwutK9LwMk449ZzUEP8_Z&ab_channel=Tv21%D0%A3%D0%BD%D0%B3%D0%B2%D0%B0%D1%80](https://www.youtube.com/watch?v=mMi0e8vTMcA&list=PLUmypCef-jpKMwutK9LwMk449ZzUEP8_Z&ab_channel=Tv21%D0%A3%D0%BD%D0%B3%D0%B2%D0%B0%D1%80)
+
 
 ---
 
