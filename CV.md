@@ -258,6 +258,27 @@ Featured in a televised segment by TV Ungvar, highlighting Uzhhorod National Uni
   – *Appearance timestamps*: 1:27–2:02 and 8:30–9:00
   – *Watch the full interview*: [https://www.youtube.com/watch?v=mMi0e8vTMcA&list=PLUmypCef-jpKMwutK9LwMk449ZzUEP8_Z&ab_channel=Tv21%D0%A3%D0%BD%D0%B3%D0%B2%D0%B0%D1%80](https://www.youtube.com/watch?v=mMi0e8vTMcA&list=PLUmypCef-jpKMwutK9LwMk449ZzUEP8_Z&ab_channel=Tv21%D0%A3%D0%BD%D0%B3%D0%B2%D0%B0%D1%80)
 
+---
+
+## **Media / News Coverage**
+1. **TV Ungvar Interview** – *Uzhhorod National University and International Collaboration*  
+   Featured in a televised segment by TV Ungvar, highlighting Uzhhorod National University's efforts in advancing international collaborations. At the time, I was a PhD student in Family Medicine.  
+   – **Appearance timestamps:** 1:27–2:02 and 8:30–9:00  
+   – **Watch the full interview:** [YouTube – TV Ungvar](https://www.youtube.com/watch?v=mMi0e8vTMcA&list=PLUmypCef-jpKMwutK9LwMk449ZzUEP8_Z&ab_channel=Tv21%D0%A3%D0%BD%D0%B3%D0%B2%D0%B0%D1%80)
+
+---
+
+## Patents and Intellectual Property
+
+1. **Title:** *Fish OSCE Methodology*  
+   **Full Title:** Oral work with illustrations — *Video presentation of lectures from the distance learning course “Methods of Teaching Objective Structured Clinical Examination of Patients in Family Physician Practice based on the system: ‘Fish OSCE’”*  
+   **Description:** A practical training model for clinical care in family medicine, inspired by Western methods of objective structured clinical examination (OSCE). The “Fish OSCE” framework incorporates intuitive mnemonics and abbreviations to guide focused history-taking and structured clinical evaluation.  
+   **Creators:** Pavlo Oleh Kolesnyk, Andrii Pavlovych Kolesnyk, George Eusebio Kuodza, Iryna Volodymyrivna Mykyta, Iryna Yuriyivna Yakym  
+   **Copyright Registration Certificate:** №101856  
+   **Date of Registration:** January 15, 2021  
+   **Date of Publication:** March 31, 2021  
+   **Published In:** Ukrainian Copyright Bulletin №63  
+   **Official Registration Entry:** [Ukrainian National Intellectual Property Office – Entry №101856](https://sis.nipo.gov.ua/en/search/detail/1633860/)
 
 ---
 
