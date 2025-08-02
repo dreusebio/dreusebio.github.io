@@ -6,7 +6,7 @@ title: Curriculum Vitae
 # George Eusebio Kuodza  
 *Postdoctoral Scholar in Epigenetics*  
 [LinkedIn](https://www.linkedin.com/in/george-eusebio-kuodza-89178314b/) | [GitHub](https://github.com/dreusebio) | [Website](https://dreusebio.github.io/)  
-**Email**: gekuodza@health.ucdavis.edu | **Phone**: 530-752-7207  
+**Email**: gekuodza@health.ucdavis.edu | **Phone**: 530-220-4085  
 
 ---
 
@@ -18,7 +18,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ## **Key Skills**
 - **Intermediate/Advanced bioinformatics experience**: R (primary), SAS, Python, Github, Shell)   
 - **Data Analysis**: DNA methylation calling(WGBS), Lipidomics
-- **Quantitative Analysis**: Statistical Modeling (linear, logistic, generalized linear models, and ANOVA), Machine Learning (random forest PLSDA, and SVM) and Network and Correlation Analysis
+- **Quantitative Analysis**: Statistical Modeling (linear, logistic, generalized linear models, and ANOVA), Machine Learning (random forest, PLSDA, and SVM), and Network and Correlation Analysis
 - **Communication**: Strong oral and written communication skills
 - **Wet Lab**: DNA isolation (saliva, buffy coat, newborn dried blood spots), designing primers, and performing PCR
 - **Team Work**: Collaboration, Interpersonal skills
@@ -32,7 +32,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ### **Codeathon Researcher**
 **African Society for Bioinformatics and Computational Biology** | *Feb 2024 - July 2024*
 - I was the **team lead** and we analyzed 3 public datasets from Gene Expression Omnibus (GEO) to identify 
-  differentially expressed genes (DEGs) and differentially methylated regions (DMRs) in hippocampal and neocortex 
+  differentially expressed genes (DEGs) and differentially methylated regions (DMRs) in the hippocampal and neocortex 
   tissues of mesial temporal lobe epilepsy (mTLE) patients using an in-silico approach
 - Identified 2139 DEGs and 2195 DMRs, significantly enriched in pathways related to gliogenesis, 
   immune response, ion transport, neuron projection development, synapse assembly, and signal 
@@ -107,11 +107,11 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
    
 - **Parental and grandparental exposome and breast cancer biomarkers in daughters and granddaughters**
 
-  This project is focused on understanding the risk factors for breast cancer and how they are related to DNA methylation changes.
+  This project is focused on understanding the risk factors for breast cancer and how they are related to DNA methylation changes across three generations.
   
 - **Detect Signs of Early Life Exposures in Midlife to Prevent Breast Cancer Inequities**
 
-  The goal of this project is to detect early life exposures associated with breast cancer.
+  The goal of this project is to detect early life exposures associated with breast cancer across three generations.
   
 - **Goals for Reaching Optimal Wellness (GROWell)**
 
@@ -119,7 +119,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 
 - **Genotyping of a structural variant associated with increased autism risk**
 
-  This project is focused on understanding how the genotype for the NHIP structural variant is associated with ASD.​
+  This project is focused on understanding how the genotype for the NHIP structural variant is associated with the risk of ASD.​
 
 ---
 
@@ -143,37 +143,39 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 
 ### **Abstracts**
 
-1. Kalami J, **Kuodza GE**, Nyamari MN, Goita MK, Osata S, Ifeoluwa OH, Olaitan A. Integrated Analysis of Genetic Variation, Gene Expression and Methylation Changes Uncovers Molecular Alterations in Temporal Lobe Epilepsy. *American Society of Human Genetics 2024 Annual Meeting Poster Abstracts* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf](https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf)
+1. **Kuodza GE**, Mouat JS, Krigbaum NY, Haghani V, Thrall EG, Kawai R, Hakam SM, Ludena YJ, Sullivan TN, Mendiola AP, Yasui DH, Tran TA, Sharifi O, Humphries AL, Torres CG, Bennett DH, Schmidt RJ, La Merrill MA, Cirillo PM, Hertz-Picciotto I, Cohn B, LaSalle JM. Newborn Blood DNA Methylation Correlates Likelihood of Autism Spectrum Disorders with Grandparental Age, Alcohol Intake, and Cigarette Smoking. International Society for Autism Research (INSAR) Annual Meeting Abstracts [Internet]. 2025 [cited 2025 Aug 2]. Available from: [https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/2025_annual_meeting/2025_INSAR_Abstract_Book_Sea.pdf](https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/2025_annual_meeting/2025_INSAR_Abstract_Book_Sea.pdf)
+2. **Kuodza GE**, McGinty SP, Yang H, Kawai R, Soto DC, Mouat JS, Williams LA, Yasui DH, Dennis MY, LaSalle JM. Genotyping a Structural Variant Linked to Increased Autism Risk in an ASD Cohort. Human Genetics Society (HGS) 2024 Annual Meeting Abstracts [Internet]. 2024 [cited 2025 Aug 2]. (No URL available)
+3. Kalami J, **Kuodza GE**, Nyamari MN, Goita MK, Osata S, Ifeoluwa OH, Olaitan A. Integrated Analysis of Genetic Variation, Gene Expression and Methylation Changes Uncovers Molecular Alterations in Temporal Lobe Epilepsy. *American Society of Human Genetics 2024 Annual Meeting Poster Abstracts* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf](https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf)
 
-2. **Kuodza GE**, Kawai R, Rodriguez YJL, Mouat JS, Hakam SM, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impact on DNA methylation signatures in autism spectrum disorder. *Journal of Clinical and Translational Science* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2](https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2)
+4. **Kuodza GE**, Kawai R, Rodriguez YJL, Mouat JS, Hakam SM, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impact on DNA methylation signatures in autism spectrum disorder. *Journal of Clinical and Translational Science* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2](https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2)
 
-3. **Kuodza GE**, Ludena YJ, Mouat JS, Hakam SM, Kawai R, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impact on DNA methylation signatures in autism spectrum disorder. *ASHG Conference Abstracts* [Internet]. 2023 [cited 2024 Dec 23]. Available from: [https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PosterAbstracts.pdf](https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PosterAbstracts.pdf)
+5. **Kuodza GE**, Ludena YJ, Mouat JS, Hakam SM, Kawai R, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impact on DNA methylation signatures in autism spectrum disorder. *ASHG Conference Abstracts* [Internet]. 2023 [cited 2024 Dec 23]. Available from: [https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PosterAbstracts.pdf](https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PosterAbstracts.pdf)
 
-4. Kolesnyk P, Ilkov O, Kozhanova M, Kolesnyk A, Rusanovska O, Mykyta T, Sabov O, **Kuodza G**. Is a Family Doctors' and Nurses' Training a Good Way for Changing Their Attitude Towards COVID-19 Vaccination? *94th EGPRN Meeting Abstracts* [Internet]. 2022 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/](https://www.egprn.org/)
+6. Kolesnyk P, Ilkov O, Kozhanova M, Kolesnyk A, Rusanovska O, Mykyta T, Sabov O, **Kuodza G**. Is a Family Doctors' and Nurses' Training a Good Way for Changing Their Attitude Towards COVID-19 Vaccination? *94th EGPRN Meeting Abstracts* [Internet]. 2022 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/](https://www.egprn.org/)
 
-5. Kolesnyk P, **Kuodza G**. Are Thoughts, Attitudes, and Perceptions Regarding Sexual Risks the Same Among Different Ethnic Groups of Foreign Medical Students in Ukraine? *94th EGPRN Meeting Abstracts* [Internet]. 2022 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/](https://www.egprn.org/)
+7. Kolesnyk P, **Kuodza G**. Are Thoughts, Attitudes, and Perceptions Regarding Sexual Risks the Same Among Different Ethnic Groups of Foreign Medical Students in Ukraine? *94th EGPRN Meeting Abstracts* [Internet]. 2022 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/](https://www.egprn.org/)
 
-6. Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, **Kuodza G**, Klemenc-Ketič Z, Frese T. Peer-elaboration, and ranking of core values in general practice in post-Soviet Ukraine. *EGPRN Conference Abstracts* [Internet]. 2021 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/profile/a8aee801-f4e3-4422-839e-5798c0b21ed1/Pavlo-Kolesnyk](https://www.egprn.org/profile/a8aee801-f4e3-4422-839e-5798c0b21ed1/Pavlo-Kolesnyk)
+8. Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, **Kuodza G**, Klemenc-Ketič Z, Frese T. Peer-elaboration, and ranking of core values in general practice in post-Soviet Ukraine. *EGPRN Conference Abstracts* [Internet]. 2021 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/profile/a8aee801-f4e3-4422-839e-5798c0b21ed1/Pavlo-Kolesnyk](https://www.egprn.org/profile/a8aee801-f4e3-4422-839e-5798c0b21ed1/Pavlo-Kolesnyk)
 
-7. **Kuodza G**, Mykyta I, Kolesnyk P. Ways of avoiding self-diagnosis among Ukrainian patients. *WONCA Europe Conference Abstracts* [Internet]. 2020 [cited 2024 Dec 23]. Available from: [https://www.woncaeurope.org/file/19c9f9dc-fa5e-428e-997c-37671a6174a0/WONCA%20Berlin_Book%20of%20Abstracts_Index](https://www.woncaeurope.org/file/19c9f9dc-fa5e-428e-997c-37671a6174a0/WONCA%20Berlin_Book%20of%20Abstracts_Index)
+9. **Kuodza G**, Mykyta I, Kolesnyk P. Ways of avoiding self-diagnosis among Ukrainian patients. *WONCA Europe Conference Abstracts* [Internet]. 2020 [cited 2024 Dec 23]. Available from: [https://www.woncaeurope.org/file/19c9f9dc-fa5e-428e-997c-37671a6174a0/WONCA%20Berlin_Book%20of%20Abstracts_Index](https://www.woncaeurope.org/file/19c9f9dc-fa5e-428e-997c-37671a6174a0/WONCA%20Berlin_Book%20of%20Abstracts_Index)
 
-8. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates and Ukrainian students of Uzhgorod National University. *ABC Course for Young Scientists* [Internet]. 2019.
+10. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates and Ukrainian students of Uzhgorod National University. *ABC Course for Young Scientists* [Internet]. 2019.
 
-9. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *Ukrainian Association of Family Doctors Conference* [Internet]. 2019.
+11. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *Ukrainian Association of Family Doctors Conference* [Internet]. 2019.
 
-10. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *WONCA Conference of Family Doctors* [Internet]. 2019.
+12. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *WONCA Conference of Family Doctors* [Internet]. 2019. Available from:[https://www.woncaeurope.org/file/4ee6ac9b-2db4-4ad8-9ecd-75b7299abd7e/Book-of-abstracts-wonca-europe-bratislava.pdf](https://www.woncaeurope.org/file/4ee6ac9b-2db4-4ad8-9ecd-75b7299abd7e/Book-of-abstracts-wonca-europe-bratislava.pdf)
 
-11. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *UMESCO Conference Abstracts* [Internet]. 2019.
+13. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *UMESCO Conference Abstracts* [Internet]. 2019. Available from:[https://umesco.info/files/UMeSCo_2019.pdf](https://umesco.info/files/UMeSCo_2019.pdf)
 
-12. **Kuodza G**, Ternushak T. Risk of developing atrial fibrillation and ventricular arrhythmias in patients with COPD. *UMESCO Conference Abstracts* [Internet]. 2019.
+14. **Kuodza G**, Ternushak T. Risk of developing atrial fibrillation and ventricular arrhythmias in patients with COPD. *UMESCO Conference Abstracts* [Internet]. 2019.Available from:[https://umesco.info/files/UMeSCo_2019.pdf](https://umesco.info/files/UMeSCo_2019.pdf)
 
-13. **Kuodza G**, Ternushak T. Cardiac arrhythmias in patients with COPD. *XVI International Scientific Conference* [Internet]. 2019.
+15. **Kuodza G**, Ternushak T. Cardiac arrhythmias in patients with COPD. *XVI International Scientific Conference* [Internet]. 2019. Available from:[https://medicine.karazin.ua/resources/1fbebf03bf9e202c77b2bab55ede5d52.pdf](https://medicine.karazin.ua/resources/1fbebf03bf9e202c77b2bab55ede5d52.pdf)
 
-14. **Kuodza G**. Factors Affecting Choice of Family Medicine Among Undergraduates. *XVI International Scientific Conference* [Internet]. 2019.
+16. **Kuodza G**. Factors Affecting Choice of Family Medicine Among Undergraduates. *XVI International Scientific Conference* [Internet]. 2019. Available from:[https://medicine.karazin.ua/resources/1fbebf03bf9e202c77b2bab55ede5d52.pdf](https://medicine.karazin.ua/resources/1fbebf03bf9e202c77b2bab55ede5d52.pdf)
 
-15. **Kuodza G**. Risk Factors For Atherosclerosis In Patients with COPD. *UMESCO Conference Abstracts* [Internet]. 2018.
+17. **Kuodza G**. Risk Factors For Atherosclerosis In Patients with COPD. *UMESCO Conference Abstracts* [Internet]. 2018. Available from:[https://umesco.info/files/UMeSCo_2018.pdf](https://umesco.info/files/UMeSCo_2018.pdf)
 
-16. Gomo NE, **Kuodza G**, Essel K. Nosocomial Infection. *UMESCO Conference Abstracts* [Internet]. 2015.
+18. Gomo NE, **Kuodza G**, Essel K. Nosocomial Infection. *UMESCO Conference Abstracts* [Internet]. 2015.
 
 ---
 
@@ -192,15 +194,12 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 9. Association for Clinical and Translational Science, Las Vegas, NV, USA | *April 2024*
 10. 8th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *March 2023*
 11. World Organization of Family Doctors (WONCA), Online (COVID) | *December 2020*
-12. 11th Annual Scientific and Practical Conference for Family Doctors with International Participation, Online (COVID) | *December 2020*
-13. Achievements of Clinical and Experimental Medicine Ternopil University, Online (COVID) | *June 2020*
-14. ABC course for Young Scientists, Uzhhorod, Ukraine | *October 2019*
-15. Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
-16. World Organization of Family Doctors (WONCA), Bratislava, Slovakia | *June 2019*
-17. Uzhhorod Medical Students Conference (UMESCO), Family Medicine Division, Uzhhorod, Ukraine | *April 2019*
-18. Uzhhorod Medical Students Conference (UMESCO), Internal Medicine Division, Uzhhorod Ukraine| *April 2019*
-19. Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
-20. Uzhhorod Medical Students Conference (UMESCO), Uzhhorod, Ukraine | *April 2018*
+12. ABC course for Young Scientists, Uzhhorod, Ukraine | *October 2019*
+13. Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
+15. Uzhhorod Medical Students Conference (UMESCO), Family Medicine Division, Uzhhorod, Ukraine | *April 2019*
+16. Uzhhorod Medical Students Conference (UMESCO), Internal Medicine Division, Uzhhorod Ukraine| *April 2019*
+17. Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
+18. Uzhhorod Medical Students Conference (UMESCO), Uzhhorod, Ukraine | *April 2018*
 
 ### **Poster**
 
