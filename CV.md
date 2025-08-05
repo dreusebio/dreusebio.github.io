@@ -44,7 +44,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 **University of California, Davis, CA, USA** | *July 2022 – Present*  
 - Researching epigenetics, focusing on DNA methylation in neurodevelopmental disorders and cancer  
 - Published and presented findings at national and international conferences
-- Mentored 3 Pre-med Undergraduate students and 2 international students
+- Mentored 3 Pre-med Undergraduate students and 6 international students
 
 ### **Assistant Lecturer, Family Medicine Department**  
 **Uzhhorod National University, Uzhhorod, Ukraine** | *September 2020 – June 2022*  
