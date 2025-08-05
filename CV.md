@@ -16,8 +16,8 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ---
 
 ## **Key Skills**
-- **Intermediate/Advanced bioinformatics experience**: R (primary), SAS, Python, Github, Shell)   
-- **Data Analysis**: DNA methylation calling(WGBS), Lipidomics
+- **Intermediate/Advanced bioinformatics experience**: R (primary), SAS, Python, Github, Linux command-line,Nextflow,Snakemake)   
+- **Data Analysis**: DNA methylation calling(Whole Genome Bisulfite Sequencing),Variant Calling(Whole-Genome Sequencing),Phasing,methylation calling and variant analysis(Oxford-Nanopore Sequencing),Lipidomics
 - **Quantitative Analysis**: Statistical Modeling (linear, logistic, generalized linear models, and ANOVA), Machine Learning (random forest, PLSDA, and SVM), and Network and Correlation Analysis
 - **Communication**: Strong oral and written communication skills
 - **Wet Lab**: DNA isolation (saliva, buffy coat, newborn dried blood spots), designing primers, and performing PCR
@@ -50,9 +50,11 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 **Uzhhorod National University, Uzhhorod, Ukraine** | *September 2020 – June 2022*  
 - Became the 1st international student employed to work as an assistant lecturer in the department 
   of Family Medicine
-- Designed and implemented curricula for Objective Structured Clinical Examinations (OSCE)  
-- Delivered lessons through various methods, including online seminars and interactive tests 
-- Supervised students in clinical skill development through role-play and practical sessions  
+- Led instruction for all third-year medical students in Introduction to Family Medicine
+- Assisted faculty in delivering advanced courses to sixth-year medical students
+- Designed and implemented Objective Structured Clinical Examination (OSCE) curricula
+- Delivered lessons using diverse instructional formats, including online seminars, interactive assessments, and case-based discussions
+- Supervised students in developing clinical skills through role-play, standardized patient scenarios, and hands-on practice sessions 
 
 ### **Family Medicine Residency**  
 **Municipal Family Clinic, Uzhhorod National University, Uzhhorod, Ukraine** | *July 2019 – July 2021*  
