@@ -236,18 +236,21 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ---
 
 ## **Professional Affiliations**
-1. Member, International Genetic Epidemiology Society (IGES) | *November 2024 - Present*
-2. Member, International Society for Autism Research (INSAR) | *October 2024 - Present*
-3. Member, Association of Clinical and Translational Science (ACTS) | *April 2024 - Present*
-4. Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
-5. Member, African Society for Bioinformatics and Computational Biology (ASBCB) | *February 2024 - Present*
-6. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023 - April 2023*
-7. Member, American Society of Human Genetics (ASHG) | *November 2023 - Present*
-8. Member, Perinatal Origin of Development (POD) Centre, University of California, Davis,  | *September 2022 - Present*
-9. Member, European General Practitioner Research Network (EGRPN) | *February 2022 - Present*
-10. Welfare and Education Committee, African Students Association of Uzhhorod National University, Ukraine | *September 2021 - February 2022*
-11. Member, European Academy of Teachers (EURACT) | *September 2020 - June 2022*
-12. Member, Örenäs Research Group  | *September 2019 - Present*
+1. Member, Sigma Xi, The Scientific Research Honor Society | *June 2025 - Present*
+2. Member, Epigenetic Society (IGES) | *March 2025 - Present*
+3. Member, International Society for Autism Research (INSAR) | *October 2024 - Present*
+4. Member, International Genetic Epidemiology Society (IGES) | *November 2024 - December 2024*
+5. Member, Association of Clinical and Translational Science (ACTS) | *April 2024 - Present*
+6. Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
+7. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023 - April 2023*
+8. 
+9. 
+10. Member, American Society of Human Genetics (ASHG) | *November 2023 - Present*
+11. Member, Perinatal Origin of Development (POD) Centre, University of California, Davis,  | *September 2022 - Present*
+12. Member, European General Practitioner Research Network (EGRPN) | *February 2022 - Present*
+13. Welfare and Education Committee, African Students Association of Uzhhorod National University, Ukraine | *September 2021 - February 2022*
+14. Member, European Academy of Teachers (EURACT) | *September 2020 - June 2022*
+15. Member, Örenäs Research Group  | *September 2019 - Present*
 
 ---
 
@@ -270,6 +273,16 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
    **Date of Publication:** March 31, 2021  
    **Published In:** Ukrainian Copyright Bulletin №63  
    **Official Registration Entry:** [Ukrainian National Intellectual Property Office – Entry №101856](https://sis.nipo.gov.ua/en/search/detail/1633860/)
+
+---
+
+## **Professional Affiliations**
+
+1. Manuscript Reviewer, Human Molecular Genetics | *May 2025 - May 2025*
+2. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2025 - April 2025*
+3. Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
+4. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023 - April 2023*
+8. 
 
 ---
 
