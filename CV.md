@@ -275,7 +275,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 
 ---
 
-## **Professional Affiliations**
+## **Professional Service**
 
 1. Manuscript Reviewer, Human Molecular Genetics | *May 2025 - May 2025*
 2. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2025 - April 2025*
