@@ -30,7 +30,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ## **Professional Experience**
 
 ### **Codeathon Researcher**
-**African Society for Bioinformatics and Computational Biology** | *Feb 2024 - July 2024*
+**Hosted by African Society for Bioinformatics and Computational Biology** | *Feb 2024 - July 2024*
 - I was the **team lead** and we analyzed 3 public datasets from Gene Expression Omnibus (GEO) to identify 
   differentially expressed genes (DEGs) and differentially methylated regions (DMRs) in the hippocampal and neocortex 
   tissues of mesial temporal lobe epilepsy (mTLE) patients using an in-silico approach
@@ -144,7 +144,9 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ### **Abstracts**
 
 1. **Kuodza GE**, Mouat JS, Krigbaum NY, Haghani V, Thrall EG, Kawai R, Hakam SM, Ludena YJ, Sullivan TN, Mendiola AP, Yasui DH, Tran TA, Sharifi O, Humphries AL, Torres CG, Bennett DH, Schmidt RJ, La Merrill MA, Cirillo PM, Hertz-Picciotto I, Cohn B, LaSalle JM. Newborn Blood DNA Methylation Correlates Likelihood of Autism Spectrum Disorders with Grandparental Age, Alcohol Intake, and Cigarette Smoking. International Society for Autism Research (INSAR) Annual Meeting Abstracts [Internet]. 2025 [cited 2025 Aug 2]. Available from: [https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/2025_annual_meeting/2025_INSAR_Abstract_Book_Sea.pdf](https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/2025_annual_meeting/2025_INSAR_Abstract_Book_Sea.pdf)
+
 2. **Kuodza GE**, McGinty SP, Yang H, Kawai R, Soto DC, Mouat JS, Williams LA, Yasui DH, Dennis MY, LaSalle JM. Genotyping a Structural Variant Linked to Increased Autism Risk in an ASD Cohort. Human Genetics Society (HGS) 2024 Annual Meeting Abstracts [Internet]. 2024 [cited 2025 Aug 2]. (No URL available)
+
 3. Kalami J, **Kuodza GE**, Nyamari MN, Goita MK, Osata S, Ifeoluwa OH, Olaitan A. Integrated Analysis of Genetic Variation, Gene Expression and Methylation Changes Uncovers Molecular Alterations in Temporal Lobe Epilepsy. *American Society of Human Genetics 2024 Annual Meeting Poster Abstracts* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf](https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf)
 
 4. **Kuodza GE**, Kawai R, Rodriguez YJL, Mouat JS, Hakam SM, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impact on DNA methylation signatures in autism spectrum disorder. *Journal of Clinical and Translational Science* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2](https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2)
@@ -243,14 +245,11 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 5. Member, Association of Clinical and Translational Science (ACTS) | *April 2024 - Present*
 6. Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
 7. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023 - April 2023*
-8. 
-9. 
-10. Member, American Society of Human Genetics (ASHG) | *November 2023 - Present*
-11. Member, Perinatal Origin of Development (POD) Centre, University of California, Davis,  | *September 2022 - Present*
-12. Member, European General Practitioner Research Network (EGRPN) | *February 2022 - Present*
-13. Welfare and Education Committee, African Students Association of Uzhhorod National University, Ukraine | *September 2021 - February 2022*
-14. Member, European Academy of Teachers (EURACT) | *September 2020 - June 2022*
-15. Member, Örenäs Research Group  | *September 2019 - Present*
+8. Member, American Society of Human Genetics (ASHG) | *May 2023 - December 2024*
+9. Member, Perinatal Origin of Development (POD) Centre, University of California, Davis,  | *September 2022 - Present*
+10. Member, European General Practitioner Research Network (EGRPN) | *February 2022 - Present*
+11. Member, European Academy of Teachers (EURACT) | *September 2020 - June 2022*
+12. Member, Örenäs Research Group  | *September 2019 - Present*
 
 ---
 
@@ -282,8 +281,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 2. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2025 - April 2025*
 3. Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
 4. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023 - April 2023*
-8. 
-
+   
 ---
 
 ## **Contact Information**
