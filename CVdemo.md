@@ -1,4 +1,14 @@
-
+### **Codeathon Researcher**
+**Hosted by African Society for Bioinformatics and Computational Biology** | *Feb 2024 - July 2024*
+- I was the **team lead** and we analyzed 3 public datasets from Gene Expression Omnibus (GEO) to identify 
+  differentially expressed genes (DEGs) and differentially methylated regions (DMRs) in the hippocampal and neocortex 
+  tissues of mesial temporal lobe epilepsy (mTLE) patients using an in-silico approach
+- Identified 2139 DEGs and 2195 DMRs, significantly enriched in pathways related to gliogenesis, 
+  immune response, ion transport, neuron projection development, synapse assembly, and signal 
+  transduction
+- Highlighted potential biomarkers for TLE, including CELSR1, RBFOX3, SYN2, and CDH13, emphasizing 
+  their roles in early diagnosis and personalized treatment strategies
+  
 # Dr. George Eusebio Kuodza - CV - 2024
 
 **Address:**  
