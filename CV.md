@@ -170,7 +170,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 
 19. **Kuodza G**. Risk Factors For Atherosclerosis In Patients with COPD. *UMESCO Conference Abstracts* [Internet]. 2018. Available from:[https://umesco.info/files/UMeSCo_2018.pdf](https://umesco.info/files/UMeSCo_2018.pdf)
 
-20. Gomo NE, **Kuodza G**, Essel K. Nosocomial Infection. *UMESCO Conference Abstracts* [Internet]. 2015.
+20. Narayanaswamy H,Gomo NE, **Kuodza G**, Essel K.Sanitary state and nosocomial infections of Regional Hospital named after A. Novak. *UMESCO Conference Abstracts* [Internet]. 2015. Available from:[https://docs.google.com/document/d/11TNYDwGztbyhvC3IR46DwS013xH5WOLJ/edit?usp=drive_link&ouid=115549120266029667605&rtpof=true&sd=true](https://docs.google.com/document/d/11TNYDwGztbyhvC3IR46DwS013xH5WOLJ/edit?usp=drive_link&ouid=115549120266029667605&rtpof=true&sd=true)
 
 ---
 
@@ -233,7 +233,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ## **Professional Affiliations**
 1. Member, Sigma Xi, The Scientific Research Honor Society | *June 2025 - Present*
 2. Member, Epigenetic Society (IGES) | *March 2025 - Present*
-3. Member, International Society for Autism Research (INSAR) | *October 2024 - Present*
+3. Member, International Society for Autism Research (INSAR) | *October 2024 - December 2025*
 4. Member, International Genetic Epidemiology Society (IGES) | *November 2024 - December 2024*
 5. Member, Association of Clinical and Translational Science (ACTS) | *April 2024 - Present*
 6. Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
