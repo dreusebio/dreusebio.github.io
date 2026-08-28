@@ -95,7 +95,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ## **Current Projects**
  - **Multigenerational inheritance of DNA methylation signatures in autism spectrum disorders**
 
-   The focus of this project is to try to understand if grandparental and parental environmental exposures, such as smoking, can be associated with ASD in their grandchildren. This study utilizes data         from whole-genome bisulfite sequencing of saliva and newborn dried blood spots.
+   The focus of this project is to try to understand if grandparental and parental environmental exposures, such as smoking, can be associated with ASD in their grandchildren. This study utilizes data from whole-genome bisulfite sequencing of saliva and newborn dried blood spots.
    
 - **Parental and grandparental exposome and breast cancer biomarkers in daughters and granddaughters**
 
@@ -107,11 +107,15 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
   
 - **Goals for Reaching Optimal Wellness (GROWell)**
 
-  It is a clinical trial focused on understanding the effect of a digital dietary intervention for pregnant and postpartum individuals with prenatal overweight or obesity.
+  It is a clinical trial focused on understanding the effect of a digital dietary intervention for pregnant and postpartum individuals with prenatal overweight or obesity. This project has both lipidomics and WGBS done and we want to use these two multi-omic approaches to understand the dynamics of lipid regulation in pregnancy.
 
 - **Genotyping of a structural variant associated with increased autism risk**
 
-  This project is focused on understanding how the genotype for the NHIP structural variant is associated with the risk of ASD.​
+  This project is focused on understanding how the genotype for the NHIP structural variant is associated with the risk of ASD.
+
+- **Examining longitudinal changes in DNA methylation in firefighters exposed to products of combustion**
+
+  The study is part of the California Firefighter Cancer Prevention and Research Program (Award: F01FF8767) and examines molecular changes associated with occupational exposure to products of combustion. ​
 
 ---
 
@@ -119,14 +123,15 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 
 ### **Articles**
 
-1. **Kuodza GE**, Keeton VF, Williams LA, Kawai R, Mendiola AJP, Torres CG, Smith PM, Phipps JE, Castro-Alvarez S, Gilliland PD, Rodriguez ML, Carbajal KA, Vo IC, Patrikeyeva A, LaSalle JM, Simmons LA. Exploring cardiometabolic markers in adverse pregnancy outcomes: insights from the GROWell study. npj Womens Health. 2026 Jul 22. doi: 10.1038/s44294-026-00158-3. Available from: [https://www.nature.com/articles/s44294-026-00158-3](https://www.nature.com/articles/s44294-026-00158-3) 
-2. 	 Mouat JS, Krigbaum NY, Hakam S, Thrall E, **Kuodza GE**, Mellis J, Yasui DH, Cirillo PM, Ludena Y, Schmidt RJ, La Merrill MA, Hertz-Picciotto I, Cohn BA, LaSalle JM. Sex-specific DNA methylation signatures of autism spectrum disorder from whole genome bisulfite sequencing of newborn blood . *bioRxiv* [Preprint]. 2024 Dec 2:2024.07.11.603098. doi: 10.1101/2024.07.11.603098. Update in: *Biol Sex Differ*. 2025 Apr 30;16(1):30. doi: 10.1186/s13293-025-00712-9. PMID: 39026708; PMCID: PMC11257592. Available from: [https://bsd.biomedcentral.com/articles/10.1186/s13293-025-00712-9](https://bsd.biomedcentral.com/articles/10.1186/s13293-025-00712-9) 
+1. **Kuodza GE**, Keeton VF, Williams LA, Kawai R, Mendiola AJP, Torres CG, Smith PM, Phipps JE, Castro-Alvarez S, Gilliland PD, Rodriguez ML, Carbajal KA, Vo IC, Patrikeyeva A, LaSalle JM, Simmons LA. Exploring cardiometabolic markers in adverse pregnancy outcomes: insights from the GROWell study. npj Womens Health. 2026 Jul 22. doi: 10.1038/s44294-026-00158-3. Available from: [https://www.nature.com/articles/s44294-026-00158-3](https://www.nature.com/articles/s44294-026-00158-3)
 
-3.  **Kuodza GE**, Kawai R, LaSalle JM. Intercontinental insights into autism spectrum disorder: a synthesis of environmental influences and DNA methylation. *Environ Epigenetics* [Internet]. 2024 Dec 19 [cited 2024 Dec 23];10(1):dvae023. Available from: [https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223](https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223)
+2. Mouat JS, Krigbaum NY, Hakam S, Thrall E, **Kuodza GE**, Mellis J, Yasui DH, Cirillo PM, Ludena Y, Schmidt RJ, La Merrill MA, Hertz-Picciotto I, Cohn BA, LaSalle JM. Sex-specific DNA methylation signatures of autism spectrum disorder from whole genome bisulfite sequencing of newborn blood . *bioRxiv* [Preprint]. 2024 Dec 2:2024.07.11.603098. doi: 10.1101/2024.07.11.603098. Update in: *Biol Sex Differ*. 2025 Apr 30;16(1):30. doi: 10.1186/s13293-025-00712-9. PMID: 39026708; PMCID: PMC11257592. Available from: [https://bsd.biomedcentral.com/articles/10.1186/s13293-025-00712-9](https://bsd.biomedcentral.com/articles/10.1186/s13293-025-00712-9)
 
-4. Hajdarevic S, Högberg C, Marzo-Castillejo M, Siliņa V, Sawicka-Powierza J, Esteva M, Koskela T, Petek D, Contreras-Martos S, Mangione M, Ožvačić Adžić Z, Asenova R, Gašparović Babić S, Brekke M, Buczkowski K, Buono N, Çifçili SS, Dinant GJ, Doorn B, Hoffman RD, **Kuodza G**, Murchie P, Pilv L, Puia A, Rapalavicius A, Smyrnakis E, Weltermann B, Harris M. Exploring why European primary care physicians sometimes do not think of, or act on, a possible cancer diagnosis: A qualitative study. *BJGP Open* [Internet]. 2023 Dec [cited 2024 Dec 23];7(4):BJGPO.2023.0029. Available from: [http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029](http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029) 
+3. **Kuodza GE**, Kawai R, LaSalle JM. Intercontinental insights into autism spectrum disorder: a synthesis of environmental influences and DNA methylation. *Environ Epigenetics* [Internet]. 2024 Dec 19 [cited 2024 Dec 23];10(1):dvae023. Available from: [https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223](https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223)
 
-5. Shushman I, Kolesnyk A, Kolesnyk P, **Kuodza G**, Mykyta I, Bayen S, Frese T. Validation of a modified questionnaire to assess Ukrainian Family Physicians’ readiness to implement the evidence-based screening recommendations into their clinical practice, using a mixed method study. *BMC Prim Care*. 2022;23(1). Available from: [https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4](https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4) 
+4. Hajdarevic S, Högberg C, Marzo-Castillejo M, Siliņa V, Sawicka-Powierza J, Esteva M, Koskela T, Petek D, Contreras-Martos S, Mangione M, Ožvačić Adžić Z, Asenova R, Gašparović Babić S, Brekke M, Buczkowski K, Buono N, Çifçili SS, Dinant GJ, Doorn B, Hoffman RD, **Kuodza G**, Murchie P, Pilv L, Puia A, Rapalavicius A, Smyrnakis E, Weltermann B, Harris M. Exploring why European primary care physicians sometimes do not think of, or act on, a possible cancer diagnosis: A qualitative study. *BJGP Open* [Internet]. 2023 Dec [cited 2024 Dec 23];7(4):BJGPO.2023.0029. Available from: [http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029](http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029)
+
+5. Shushman I, Kolesnyk A, Kolesnyk P, **Kuodza G**, Mykyta I, Bayen S, Frese T. Validation of a modified questionnaire to assess Ukrainian Family Physicians’ readiness to implement the evidence-based screening recommendations into their clinical practice, using a mixed method study. *BMC Prim Care*. 2022;23(1). Available from: [https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4](https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4)
 
 6. Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, **Kuodza G**, Klemenc-Ketič Z, Frese T. Identification and Ranking of Core Values in Family Medicine: A Mixed Methods Study From Ukraine. *Front Med* [Internet]. 2021 Mar 22 [cited 2024 Dec 23];8:646276. Available from: [https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full](https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full)
 
