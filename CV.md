@@ -141,17 +141,19 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 
 ### **Abstracts**
 
-1. **Kuodza GE**, Phipps JE, Keeton VF, Williams LA, Kawai R, Mendiola AJP, Torres CG, Smith PM, Castro-Alvarez S, Gilliland PD, Carbajal KA, Vo IC, Patrikeyeva A, Rodriguez ML, LaSalle JM, Simmons LA. A multi-omic approach to understanding adverse pregnancy outcomes and postpartum weight retention: insights from the GROWell study. Journal of Clinical and Translational Science [Internet]. 2026 [cited 2026 Aug 28];10(S1):109. Available from: [ https://doi.org/10.1017/cts.2026.10511](https://doi.org/10.1017/cts.2026.10511)
+1. **Kuodza GE**, Phipps JE, Keeton VF, Williams LA, Kawai R, Mendiola AJP, Torres CG, Smith PM, Castro-Alvarez S, Gilliland PD, Carbajal KA, Vo IC, Patrikeyeva A, Rodriguez ML, LaSalle JM, Simmons LA. A multi-omic approach to understanding adverse pregnancy outcomes and postpartum weight retention: insights from the GROWell study. *Journal of Clinical and Translational Science* [Internet]. 2026 [cited 2026 Aug 28];10(S1):109. Available from: [https://doi.org/10.1017/cts.2026.10511](https://doi.org/10.1017/cts.2026.10511)
 
-1.  **Kuodza GE**, Phipps JE, Williams LA, Kawai R, Mendiola AJP, Smith PM, Castro-Alvarez S, Gilliland PD, Carbajal KA, Vo IC, Patrikeyeva A, Rodriguez ML, LaSalle JM, Simmons LA. Exploring cardiometabolic markers in adverse pregnancy outcomes: insights from the GROWell study. UC Davis Postdoctoral Symposium [Presentation]. 2025 Aug 12. Available from:[https://escholarship.org/uc/item/7d64w19s](https://escholarship.org/uc/item/7d64w19s)
+1. **Kuodza GE**, Kawai R, Rodriguez YJL, Mouat JS, Hakam SM, Sullivan TN, Haghani V, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational effects of environmental exposures on DNA methylation in newborn dried blood spots from autism and typically developing children. 12th Annual UC Davis Human Genomics Symposium [Abstract]. 2025 Nov 21. Available from: [Abstract](https://drive.google.com/file/d/1nPJtI5urPihPMZwLNVvA-vz0qRn4SVeE/view)
+
+1.  **Kuodza GE**, Phipps JE, Williams LA, Kawai R, Mendiola AJP, Smith PM, Castro-Alvarez S, Gilliland PD, Carbajal KA, Vo IC, Patrikeyeva A, Rodriguez ML, LaSalle JM, Simmons LA. Exploring cardiometabolic markers in adverse pregnancy outcomes: insights from the GROWell study. UC Davis Postdoctoral Symposium [Abstract]. 2025 Aug 12. Available from:[https://escholarship.org/uc/item/7d64w19s](https://escholarship.org/uc/item/7d64w19s)
    
 1. **Kuodza GE**, Mouat JS, Krigbaum NY, Haghani V, Thrall EG, Kawai R, Hakam SM, Ludena YJ, Sullivan TN, Mendiola AP, Yasui DH, Tran TA, Sharifi O, Humphries AL, Torres CG, Bennett DH, Schmidt RJ, La Merrill MA, Cirillo PM, Hertz-Picciotto I, Cohn B, LaSalle JM. Newborn Blood DNA Methylation Correlates Likelihood of Autism Spectrum Disorders with Grandparental Age, Alcohol Intake, and Cigarette Smoking. International Society for Autism Research (INSAR) Annual Meeting Abstracts [Internet]. 2025 [cited 2025 Aug 2]. Available from: [https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/2025_annual_meeting/2025_INSAR_Abstract_Book_Sea.pdf](https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/2025_annual_meeting/2025_INSAR_Abstract_Book_Sea.pdf)
 
-1. **Kuodza GE**, McGinty SP, Yang H, Kawai R, Soto DC, Mouat JS, Williams LA, Yasui DH, Dennis MY, LaSalle JM. Genotyping a Structural Variant Linked to Increased Autism Risk in an ASD Cohort. Human Genetics Society (HGS) 2024 Annual Meeting Abstracts [Internet]. 2024 [cited 2025 Aug 2]. (No URL available)
+1. **Kuodza GE**, McGinty SP, Yang H, Kawai R, Soto DC, Mouat JS, Williams LA, Yasui DH, Dennis MY, LaSalle JM. Genotyping a Structural Variant Linked to Increased Autism Risk in an ASD Cohort. Human Genetics Society (HGS) 2024 Annual Meeting Abstracts. 2024  [cited 2025 Aug 2]. (No URL available)
 
 1. Kalami J, **Kuodza GE**, Nyamari MN, Goita MK, Osata S, Ifeoluwa OH, Olaitan A. Integrated Analysis of Genetic Variation, Gene Expression and Methylation Changes Uncovers Molecular Alterations in Temporal Lobe Epilepsy. *American Society of Human Genetics 2024 Annual Meeting Poster Abstracts* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf](https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf)
 
-1. **Kuodza GE**, Kawai R, Rodriguez YJL, Mouat JS, Hakam SM, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impact on DNA methylation signatures in autism spectrum disorder. *Journal of Clinical and Translational Science* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2](https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2)
+1. **Kuodza GE**, Kawai R, Rodriguez YJL, Mouat JS, Hakam SM, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impacts on DNA methylation signatures in autism spectrum disorder. *Journal of Clinical and Translational Science* [Internet]. 2024 [cited 2024 Dec 23];8(S1):169. Available from: [https://doi.org/10.1017/cts.2024.486](https://doi.org/10.1017/cts.2024.486)
 
 1. **Kuodza GE**, Ludena YJ, Mouat JS, Hakam SM, Kawai R, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impact on DNA methylation signatures in autism spectrum disorder. *ASHG Conference Abstracts* [Internet]. 2023 [cited 2024 Dec 23]. Available from: [https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PosterAbstracts.pdf](https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PosterAbstracts.pdf)
 
@@ -163,9 +165,9 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 
 1. **Kuodza G**, Mykyta I, Kolesnyk P. Ways of avoiding self-diagnosis among Ukrainian patients. *WONCA Europe Conference Abstracts* [Internet]. 2020 [cited 2024 Dec 23]. Available from: [https://www.woncaeurope.org/file/19c9f9dc-fa5e-428e-997c-37671a6174a0/WONCA%20Berlin_Book%20of%20Abstracts_Index](https://www.woncaeurope.org/file/19c9f9dc-fa5e-428e-997c-37671a6174a0/WONCA%20Berlin_Book%20of%20Abstracts_Index)
 
-1. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates and Ukrainian students of Uzhgorod National University. *ABC Course for Young Scientists* [Internet]. 2019.
+1. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates and Ukrainian students of Uzhgorod National University. *ABC Course for Young Scientists*. 2019.
 
-1. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *Ukrainian Association of Family Doctors Conference* [Internet]. 2019.
+1. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *Ukrainian Association of Family Doctors Conference*. 2019.
 
 1. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *WONCA Conference of Family Doctors* [Internet]. 2019. Available from:[https://www.woncaeurope.org/file/4ee6ac9b-2db4-4ad8-9ecd-75b7299abd7e/Book-of-abstracts-wonca-europe-bratislava.pdf](https://www.woncaeurope.org/file/4ee6ac9b-2db4-4ad8-9ecd-75b7299abd7e/Book-of-abstracts-wonca-europe-bratislava.pdf)
 
@@ -179,7 +181,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 
 1. **Kuodza G**. Risk Factors For Atherosclerosis In Patients with COPD. *UMESCO Conference Abstracts* [Internet]. 2018. Available from:[https://umesco.info/files/UMeSCo_2018.pdf](https://umesco.info/files/UMeSCo_2018.pdf)
 
-1. Narayanaswamy H,Gomo NE, **Kuodza G**, Essel K.Sanitary state and nosocomial infections of Regional Hospital named after A. Novak. *UMESCO Conference Abstracts* [Internet]. 2015. Available from:[https://docs.google.com/document/d/11TNYDwGztbyhvC3IR46DwS013xH5WOLJ/edit?usp=drive_link&ouid=115549120266029667605&rtpof=true&sd=true](https://docs.google.com/document/d/11TNYDwGztbyhvC3IR46DwS013xH5WOLJ/edit?usp=drive_link&ouid=115549120266029667605&rtpof=true&sd=true)
+1. Narayanaswamy H, Gomo NE, **Kuodza G**, Essel K. Sanitary state and nosocomial infections of Regional Hospital named after A. Novak. *UMESCO Conference Abstracts* [Internet]. 2015 [cited 2026 Aug 28]. Available from: [Abstract](https://docs.google.com/document/d/11TNYDwGztbyhvC3IR46DwS013xH5WOLJ/edit)
 
 ---
 
@@ -187,7 +189,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 
 ### **Oral**
 
-2. Juneteenth Symposium, University of California, Davis, CA, USA | *June 2025*
+1. Juneteenth Symposium, University of California, Davis, CA, USA | *June 2025*
 1. 21th Annual Clinical Translational Science Center (CTSC) Scholar Symposium, University of California, Davis, CA, USA | *June 2025*
 1. 10th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2025*
 1. Human Genomics Focus Group (HGFG), University of California, Davis, CA, USA | *September 2024*
@@ -208,50 +210,50 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ### **Poster**
 
 1.  Krebs Symposium, University of California, Davis, CA, USA | *April 2025*
-2. International Society of Autism Research (INSAR), Seattle, WA, USA | *April 2025*
-3. 2nd Annual Women’s History Month Symposium, University of California, Davis, CA, USA | *March 2025*
-4. 11th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2024*
-5. American Society of Human Genetics (ASHG), CO, USA | *November 2024*
-6. Genome Center Halloween Symposium, University of California, Davis, CA, USA | *October 2024*
-7. Environmental Health Sciences Center's Annual Retreat, University of California, Davis, CA, USA | *October 2024*
-8. Association for Clinical and Translational Science, NV, USA | *April 2024*
-9. 10th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2023*
-10. American Society of Human Genetics (ASHG), DC, USA | *November 2023*
-11. Genome Center Halloween Symposium, University of California, Davis, CA, USA | *October 2023*
+1. International Society of Autism Research (INSAR), Seattle, WA, USA | *April 2025*
+1. 2nd Annual Women’s History Month Symposium, University of California, Davis, CA, USA | *March 2025*
+1. 11th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2024*
+1. American Society of Human Genetics (ASHG), CO, USA | *November 2024*
+1. Genome Center Halloween Symposium, University of California, Davis, CA, USA | *October 2024*
+1. Environmental Health Sciences Center's Annual Retreat, University of California, Davis, CA, USA | *October 2024*
+1. Association for Clinical and Translational Science, NV, USA | *April 2024*
+1. 10th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2023*
+1. American Society of Human Genetics (ASHG), DC, USA | *November 2023*
+1. Genome Center Halloween Symposium, University of California, Davis, CA, USA | *October 2023*
 
 ---
 
 ## **Honors and Awards**
 1. **2nd place Oral Presentation** | 10th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2025*
-2. **Barry Wolfe and Jacqueline Crawley Travel Award** | University of California, Davis, CA, USA | *April 2025*
-3. **Travel Award** | International Society of Autism Research (INSAR), Seattle, WA, USA | *April 2025*
-4. **Travel Award** | Clinical Research Education in Genome Science Short Course, NY, USA | *August 2024*
-5. **3rd place Oral Presentation** | African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
-6. **Top 3 Finalist at the 3-Minute Thesis Oral Presentation** | Association of Clinical and Translational Science Conference, NV, USA | *April 2024*
-7. **Trainee Pilot Grant for Genotyping an ASD Structural Variant ($10,000)**, Human Genomics Focus Group, University of California, Davis, CA, USA | *June 2023*
-8. **1st place Poster Presentation** | 10th Annual Human Genomics Symposium, University of California, Davis, CA, USA  | *November 2023*  
-9. **Travel Award** | The Whole Scientist Short Course – Jackson Laboratory, CT | *September 2022*  
-10. **Pilot Grant for Lipidomics ($2,000)** | Genome Center, University of California, Davis, CA, USA |   *September 2022*
-11. **1st place Poster Presentation** | Young Scientist Presenters among Family Doctors at the Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
-12. **3rd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Uzhhorod, Ukraine | *April 2019*
-13. **2nd place Oral Presentation** |Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
-14. **2nd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Uzhhorod, Ukraine | *April 2018*
+1. **Barry Wolfe and Jacqueline Crawley Travel Award** | University of California, Davis, CA, USA | *April 2025*
+1. **Travel Award** | International Society of Autism Research (INSAR), Seattle, WA, USA | *April 2025*
+1. **Travel Award** | Clinical Research Education in Genome Science Short Course, NY, USA | *August 2024*
+1. **3rd place Oral Presentation** | African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
+1. **Top 3 Finalist at the 3-Minute Thesis Oral Presentation** | Association of Clinical and Translational Science Conference, NV, USA | *April 2024*
+1. **Trainee Pilot Grant for Genotyping an ASD Structural Variant ($10,000)**, Human Genomics Focus Group, University of California, Davis, CA, USA | *June 2023*
+1. **1st place Poster Presentation** | 10th Annual Human Genomics Symposium, University of California, Davis, CA, USA  | *November 2023*  
+1. **Travel Award** | The Whole Scientist Short Course – Jackson Laboratory, CT | *September 2022*  
+1. **Pilot Grant for Lipidomics ($2,000)** | Genome Center, University of California, Davis, CA, USA |   *September 2022*
+1. **1st place Poster Presentation** | Young Scientist Presenters among Family Doctors at the Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
+1. **3rd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Uzhhorod, Ukraine | *April 2019*
+1. **2nd place Oral Presentation** |Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
+1. **2nd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Uzhhorod, Ukraine | *April 2018*
 
 ---
 
 ## **Professional Affiliations**
 1. Member, Sigma Xi, The Scientific Research Honor Society | *June 2025 - Present*
-2. Member, Epigenetic Society (IGES) | *March 2025 - Present*
-3. Member, International Society for Autism Research (INSAR) | *October 2024 - December 2025*
-4. Member, International Genetic Epidemiology Society (IGES) | *November 2024 - December 2024*
-5. Member, Association of Clinical and Translational Science (ACTS) | *April 2024 - Present*
-6. Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
-7. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023 - April 2023*
-8. Member, American Society of Human Genetics (ASHG) | *May 2023 - December 2024*
-9. Member, Perinatal Origin of Development (POD) Centre, University of California, Davis,  | *September 2022 - Present*
-10. Member, European General Practitioner Research Network (EGRPN) | *February 2022 - Present*
-11. Member, European Academy of Teachers (EURACT) | *September 2020 - June 2022*
-12. Member, Örenäs Research Group  | *September 2019 - Present*
+1. Member, Epigenetic Society (IGES) | *March 2025 - Present*
+1. Member, International Society for Autism Research (INSAR) | *October 2024 - December 2025*
+1. Member, International Genetic Epidemiology Society (IGES) | *November 2024 - December 2024*
+1. Member, Association of Clinical and Translational Science (ACTS) | *April 2024 - Present*
+1. Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
+1. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023 - April 2023*
+1. Member, American Society of Human Genetics (ASHG) | *May 2023 - December 2024*
+1. Member, Perinatal Origin of Development (POD) Centre, University of California, Davis,  | *September 2022 - Present*
+1. Member, European General Practitioner Research Network (EGRPN) | *February 2022 - Present*
+1. Member, European Academy of Teachers (EURACT) | *September 2020 - June 2022*
+1. Member, Örenäs Research Group  | *September 2019 - Present*
 
 ---
 
@@ -280,9 +282,9 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ## **Professional Service**
 
 1. Manuscript Reviewer, Human Molecular Genetics | *May 2025 - May 2025*
-2. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2025 - April 2025*
-3. Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
-4. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023 - April 2023*
+1. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2025 - April 2025*
+1. Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
+1. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023 - April 2023*
    
 ---
 
