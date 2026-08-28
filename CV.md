@@ -143,43 +143,43 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 
 1. **Kuodza GE**, Phipps JE, Keeton VF, Williams LA, Kawai R, Mendiola AJP, Torres CG, Smith PM, Castro-Alvarez S, Gilliland PD, Carbajal KA, Vo IC, Patrikeyeva A, Rodriguez ML, LaSalle JM, Simmons LA. A multi-omic approach to understanding adverse pregnancy outcomes and postpartum weight retention: insights from the GROWell study. Journal of Clinical and Translational Science [Internet]. 2026 [cited 2026 Aug 28];10(S1):109. Available from: [ https://doi.org/10.1017/cts.2026.10511](https://doi.org/10.1017/cts.2026.10511)
 
-2.  **Kuodza GE**, Phipps JE, Williams LA, Kawai R, Mendiola AJP, Smith PM, Castro-Alvarez S, Gilliland PD, Carbajal KA, Vo IC, Patrikeyeva A, Rodriguez ML, LaSalle JM, Simmons LA. Exploring cardiometabolic markers in adverse pregnancy outcomes: insights from the GROWell study. UC Davis Postdoctoral Symposium [Presentation]. 2025 Aug 12. Available from:[https://escholarship.org/uc/item/7d64w19s](https://escholarship.org/uc/item/7d64w19s)
+1.  **Kuodza GE**, Phipps JE, Williams LA, Kawai R, Mendiola AJP, Smith PM, Castro-Alvarez S, Gilliland PD, Carbajal KA, Vo IC, Patrikeyeva A, Rodriguez ML, LaSalle JM, Simmons LA. Exploring cardiometabolic markers in adverse pregnancy outcomes: insights from the GROWell study. UC Davis Postdoctoral Symposium [Presentation]. 2025 Aug 12. Available from:[https://escholarship.org/uc/item/7d64w19s](https://escholarship.org/uc/item/7d64w19s)
    
-3. **Kuodza GE**, Mouat JS, Krigbaum NY, Haghani V, Thrall EG, Kawai R, Hakam SM, Ludena YJ, Sullivan TN, Mendiola AP, Yasui DH, Tran TA, Sharifi O, Humphries AL, Torres CG, Bennett DH, Schmidt RJ, La Merrill MA, Cirillo PM, Hertz-Picciotto I, Cohn B, LaSalle JM. Newborn Blood DNA Methylation Correlates Likelihood of Autism Spectrum Disorders with Grandparental Age, Alcohol Intake, and Cigarette Smoking. International Society for Autism Research (INSAR) Annual Meeting Abstracts [Internet]. 2025 [cited 2025 Aug 2]. Available from: [https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/2025_annual_meeting/2025_INSAR_Abstract_Book_Sea.pdf](https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/2025_annual_meeting/2025_INSAR_Abstract_Book_Sea.pdf)
+1. **Kuodza GE**, Mouat JS, Krigbaum NY, Haghani V, Thrall EG, Kawai R, Hakam SM, Ludena YJ, Sullivan TN, Mendiola AP, Yasui DH, Tran TA, Sharifi O, Humphries AL, Torres CG, Bennett DH, Schmidt RJ, La Merrill MA, Cirillo PM, Hertz-Picciotto I, Cohn B, LaSalle JM. Newborn Blood DNA Methylation Correlates Likelihood of Autism Spectrum Disorders with Grandparental Age, Alcohol Intake, and Cigarette Smoking. International Society for Autism Research (INSAR) Annual Meeting Abstracts [Internet]. 2025 [cited 2025 Aug 2]. Available from: [https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/2025_annual_meeting/2025_INSAR_Abstract_Book_Sea.pdf](https://cdn.ymaws.com/www.autism-insar.org/resource/resmgr/2025_annual_meeting/2025_INSAR_Abstract_Book_Sea.pdf)
 
-4. **Kuodza GE**, McGinty SP, Yang H, Kawai R, Soto DC, Mouat JS, Williams LA, Yasui DH, Dennis MY, LaSalle JM. Genotyping a Structural Variant Linked to Increased Autism Risk in an ASD Cohort. Human Genetics Society (HGS) 2024 Annual Meeting Abstracts [Internet]. 2024 [cited 2025 Aug 2]. (No URL available)
+1. **Kuodza GE**, McGinty SP, Yang H, Kawai R, Soto DC, Mouat JS, Williams LA, Yasui DH, Dennis MY, LaSalle JM. Genotyping a Structural Variant Linked to Increased Autism Risk in an ASD Cohort. Human Genetics Society (HGS) 2024 Annual Meeting Abstracts [Internet]. 2024 [cited 2025 Aug 2]. (No URL available)
 
-5. Kalami J, **Kuodza GE**, Nyamari MN, Goita MK, Osata S, Ifeoluwa OH, Olaitan A. Integrated Analysis of Genetic Variation, Gene Expression and Methylation Changes Uncovers Molecular Alterations in Temporal Lobe Epilepsy. *American Society of Human Genetics 2024 Annual Meeting Poster Abstracts* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf](https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf)
+1. Kalami J, **Kuodza GE**, Nyamari MN, Goita MK, Osata S, Ifeoluwa OH, Olaitan A. Integrated Analysis of Genetic Variation, Gene Expression and Methylation Changes Uncovers Molecular Alterations in Temporal Lobe Epilepsy. *American Society of Human Genetics 2024 Annual Meeting Poster Abstracts* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf](https://www.ashg.org/wp-content/uploads/2024/10/ASHG2024-PosterAbstracts.pdf)
 
-6. **Kuodza GE**, Kawai R, Rodriguez YJL, Mouat JS, Hakam SM, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impact on DNA methylation signatures in autism spectrum disorder. *Journal of Clinical and Translational Science* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2](https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2)
+1. **Kuodza GE**, Kawai R, Rodriguez YJL, Mouat JS, Hakam SM, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impact on DNA methylation signatures in autism spectrum disorder. *Journal of Clinical and Translational Science* [Internet]. 2024 [cited 2024 Dec 23]. Available from: [https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2](https://www.cambridge.org/core/journals/journal-of-clinical-and-translational-science/article/567-multigenerational-impacts-on-dna-methylation-signatures-in-autism-spectrum-disorder/30401E84F6216CE8236B635B79776CA2)
 
-7. **Kuodza GE**, Ludena YJ, Mouat JS, Hakam SM, Kawai R, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impact on DNA methylation signatures in autism spectrum disorder. *ASHG Conference Abstracts* [Internet]. 2023 [cited 2024 Dec 23]. Available from: [https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PosterAbstracts.pdf](https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PosterAbstracts.pdf)
+1. **Kuodza GE**, Ludena YJ, Mouat JS, Hakam SM, Kawai R, Sullivan TN, Torvick CR, Bennett DH, Hertz-Picciotto I, LaSalle JM. Multigenerational impact on DNA methylation signatures in autism spectrum disorder. *ASHG Conference Abstracts* [Internet]. 2023 [cited 2024 Dec 23]. Available from: [https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PosterAbstracts.pdf](https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PosterAbstracts.pdf)
 
-8. Kolesnyk P, Ilkov O, Kozhanova M, Kolesnyk A, Rusanovska O, Mykyta T, Sabov O, **Kuodza G**. Is a Family Doctors' and Nurses' Training a Good Way for Changing Their Attitude Towards COVID-19 Vaccination? *94th EGPRN Meeting Abstracts* [Internet]. 2022 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/](https://www.egprn.org/)
+1. Kolesnyk P, Ilkov O, Kozhanova M, Kolesnyk A, Rusanovska O, Mykyta T, Sabov O, **Kuodza G**. Is a Family Doctors' and Nurses' Training a Good Way for Changing Their Attitude Towards COVID-19 Vaccination? *94th EGPRN Meeting Abstracts* [Internet]. 2022 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/](https://www.egprn.org/)
 
-9. Kolesnyk P, **Kuodza G**. Are Thoughts, Attitudes, and Perceptions Regarding Sexual Risks the Same Among Different Ethnic Groups of Foreign Medical Students in Ukraine? *94th EGPRN Meeting Abstracts* [Internet]. 2022 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/](https://www.egprn.org/)
+1. Kolesnyk P, **Kuodza G**. Are Thoughts, Attitudes, and Perceptions Regarding Sexual Risks the Same Among Different Ethnic Groups of Foreign Medical Students in Ukraine? *94th EGPRN Meeting Abstracts* [Internet]. 2022 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/](https://www.egprn.org/)
 
-10. Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, **Kuodza G**, Klemenc-Ketič Z, Frese T. Peer-elaboration, and ranking of core values in general practice in post-Soviet Ukraine. *EGPRN Conference Abstracts* [Internet]. 2021 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/profile/a8aee801-f4e3-4422-839e-5798c0b21ed1/Pavlo-Kolesnyk](https://www.egprn.org/profile/a8aee801-f4e3-4422-839e-5798c0b21ed1/Pavlo-Kolesnyk)
+1. Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, **Kuodza G**, Klemenc-Ketič Z, Frese T. Peer-elaboration, and ranking of core values in general practice in post-Soviet Ukraine. *EGPRN Conference Abstracts* [Internet]. 2021 [cited 2024 Dec 23]. Available from: [https://www.egprn.org/profile/a8aee801-f4e3-4422-839e-5798c0b21ed1/Pavlo-Kolesnyk](https://www.egprn.org/profile/a8aee801-f4e3-4422-839e-5798c0b21ed1/Pavlo-Kolesnyk)
 
-11. **Kuodza G**, Mykyta I, Kolesnyk P. Ways of avoiding self-diagnosis among Ukrainian patients. *WONCA Europe Conference Abstracts* [Internet]. 2020 [cited 2024 Dec 23]. Available from: [https://www.woncaeurope.org/file/19c9f9dc-fa5e-428e-997c-37671a6174a0/WONCA%20Berlin_Book%20of%20Abstracts_Index](https://www.woncaeurope.org/file/19c9f9dc-fa5e-428e-997c-37671a6174a0/WONCA%20Berlin_Book%20of%20Abstracts_Index)
+1. **Kuodza G**, Mykyta I, Kolesnyk P. Ways of avoiding self-diagnosis among Ukrainian patients. *WONCA Europe Conference Abstracts* [Internet]. 2020 [cited 2024 Dec 23]. Available from: [https://www.woncaeurope.org/file/19c9f9dc-fa5e-428e-997c-37671a6174a0/WONCA%20Berlin_Book%20of%20Abstracts_Index](https://www.woncaeurope.org/file/19c9f9dc-fa5e-428e-997c-37671a6174a0/WONCA%20Berlin_Book%20of%20Abstracts_Index)
 
-12. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates and Ukrainian students of Uzhgorod National University. *ABC Course for Young Scientists* [Internet]. 2019.
+1. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates and Ukrainian students of Uzhgorod National University. *ABC Course for Young Scientists* [Internet]. 2019.
 
-13. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *Ukrainian Association of Family Doctors Conference* [Internet]. 2019.
+1. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *Ukrainian Association of Family Doctors Conference* [Internet]. 2019.
 
-14. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *WONCA Conference of Family Doctors* [Internet]. 2019. Available from:[https://www.woncaeurope.org/file/4ee6ac9b-2db4-4ad8-9ecd-75b7299abd7e/Book-of-abstracts-wonca-europe-bratislava.pdf](https://www.woncaeurope.org/file/4ee6ac9b-2db4-4ad8-9ecd-75b7299abd7e/Book-of-abstracts-wonca-europe-bratislava.pdf)
+1. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *WONCA Conference of Family Doctors* [Internet]. 2019. Available from:[https://www.woncaeurope.org/file/4ee6ac9b-2db4-4ad8-9ecd-75b7299abd7e/Book-of-abstracts-wonca-europe-bratislava.pdf](https://www.woncaeurope.org/file/4ee6ac9b-2db4-4ad8-9ecd-75b7299abd7e/Book-of-abstracts-wonca-europe-bratislava.pdf)
 
-15. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *UMESCO Conference Abstracts* [Internet]. 2019. Available from:[https://umesco.info/files/UMeSCo_2019.pdf](https://umesco.info/files/UMeSCo_2019.pdf)
+1. **Kuodza G**, Kolesnyk P, Kolesnyk A. The perception of Family Medicine among foreign undergraduates of Uzhgorod National University. *UMESCO Conference Abstracts* [Internet]. 2019. Available from:[https://umesco.info/files/UMeSCo_2019.pdf](https://umesco.info/files/UMeSCo_2019.pdf)
 
-16. **Kuodza G**, Ternushak T. Risk of developing atrial fibrillation and ventricular arrhythmias in patients with COPD. *UMESCO Conference Abstracts* [Internet]. 2019.Available from:[https://umesco.info/files/UMeSCo_2019.pdf](https://umesco.info/files/UMeSCo_2019.pdf)
+1. **Kuodza G**, Ternushak T. Risk of developing atrial fibrillation and ventricular arrhythmias in patients with COPD. *UMESCO Conference Abstracts* [Internet]. 2019.Available from:[https://umesco.info/files/UMeSCo_2019.pdf](https://umesco.info/files/UMeSCo_2019.pdf)
 
-17. **Kuodza G**, Ternushak T. Cardiac arrhythmias in patients with COPD. *XVI International Scientific Conference* [Internet]. 2019. Available from:[https://medicine.karazin.ua/resources/1fbebf03bf9e202c77b2bab55ede5d52.pdf](https://medicine.karazin.ua/resources/1fbebf03bf9e202c77b2bab55ede5d52.pdf)
+1. **Kuodza G**, Ternushak T. Cardiac arrhythmias in patients with COPD. *XVI International Scientific Conference* [Internet]. 2019. Available from:[https://medicine.karazin.ua/resources/1fbebf03bf9e202c77b2bab55ede5d52.pdf](https://medicine.karazin.ua/resources/1fbebf03bf9e202c77b2bab55ede5d52.pdf)
 
-18. **Kuodza G**. Factors Affecting Choice of Family Medicine Among Undergraduates. *XVI International Scientific Conference* [Internet]. 2019. Available from:[https://medicine.karazin.ua/resources/1fbebf03bf9e202c77b2bab55ede5d52.pdf](https://medicine.karazin.ua/resources/1fbebf03bf9e202c77b2bab55ede5d52.pdf)
+1. **Kuodza G**. Factors Affecting Choice of Family Medicine Among Undergraduates. *XVI International Scientific Conference* [Internet]. 2019. Available from:[https://medicine.karazin.ua/resources/1fbebf03bf9e202c77b2bab55ede5d52.pdf](https://medicine.karazin.ua/resources/1fbebf03bf9e202c77b2bab55ede5d52.pdf)
 
-19. **Kuodza G**. Risk Factors For Atherosclerosis In Patients with COPD. *UMESCO Conference Abstracts* [Internet]. 2018. Available from:[https://umesco.info/files/UMeSCo_2018.pdf](https://umesco.info/files/UMeSCo_2018.pdf)
+1. **Kuodza G**. Risk Factors For Atherosclerosis In Patients with COPD. *UMESCO Conference Abstracts* [Internet]. 2018. Available from:[https://umesco.info/files/UMeSCo_2018.pdf](https://umesco.info/files/UMeSCo_2018.pdf)
 
-20. Narayanaswamy H,Gomo NE, **Kuodza G**, Essel K.Sanitary state and nosocomial infections of Regional Hospital named after A. Novak. *UMESCO Conference Abstracts* [Internet]. 2015. Available from:[https://docs.google.com/document/d/11TNYDwGztbyhvC3IR46DwS013xH5WOLJ/edit?usp=drive_link&ouid=115549120266029667605&rtpof=true&sd=true](https://docs.google.com/document/d/11TNYDwGztbyhvC3IR46DwS013xH5WOLJ/edit?usp=drive_link&ouid=115549120266029667605&rtpof=true&sd=true)
+1. Narayanaswamy H,Gomo NE, **Kuodza G**, Essel K.Sanitary state and nosocomial infections of Regional Hospital named after A. Novak. *UMESCO Conference Abstracts* [Internet]. 2015. Available from:[https://docs.google.com/document/d/11TNYDwGztbyhvC3IR46DwS013xH5WOLJ/edit?usp=drive_link&ouid=115549120266029667605&rtpof=true&sd=true](https://docs.google.com/document/d/11TNYDwGztbyhvC3IR46DwS013xH5WOLJ/edit?usp=drive_link&ouid=115549120266029667605&rtpof=true&sd=true)
 
 ---
 
@@ -187,23 +187,23 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 
 ### **Oral**
 
-1. Juneteenth Symposium, University of California, Davis, CA, USA | *June 2025*
-2. 21th Annual Clinical Translational Science Center (CTSC) Scholar Symposium, University of California, Davis, CA, USA | *June 2025*
-3. 10th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2025*
-4. Human Genomics Focus Group (HGFG), University of California, Davis, CA, USA | *September 2024*
-5. 20th Annual Clinical Translational Science Center (CTSC) Scholar Symposium, University of California, Davis, CA, USA | *May 2024*
-6. 9th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2024*
-7. African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
-8. Genome Center Research Retreat,University of California, Davis, CA, USA | *April 2024*
-9. Association for Clinical and Translational Science, Las Vegas, NV, USA | *April 2024*
-10. 8th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *March 2023*
-11. World Organization of Family Doctors (WONCA), Online (COVID) | *December 2020*
-12. ABC course for Young Scientists, Uzhhorod, Ukraine | *October 2019*
-13. Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
-15. Uzhhorod Medical Students Conference (UMESCO), Family Medicine Division, Uzhhorod, Ukraine | *April 2019*
-16. Uzhhorod Medical Students Conference (UMESCO), Internal Medicine Division, Uzhhorod Ukraine| *April 2019*
-17. Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
-18. Uzhhorod Medical Students Conference (UMESCO), Uzhhorod, Ukraine | *April 2018*
+2. Juneteenth Symposium, University of California, Davis, CA, USA | *June 2025*
+1. 21th Annual Clinical Translational Science Center (CTSC) Scholar Symposium, University of California, Davis, CA, USA | *June 2025*
+1. 10th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2025*
+1. Human Genomics Focus Group (HGFG), University of California, Davis, CA, USA | *September 2024*
+1. 20th Annual Clinical Translational Science Center (CTSC) Scholar Symposium, University of California, Davis, CA, USA | *May 2024*
+1. 9th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2024*
+1. African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
+1. Genome Center Research Retreat,University of California, Davis, CA, USA | *April 2024*
+1. Association for Clinical and Translational Science, Las Vegas, NV, USA | *April 2024*
+1. 8th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *March 2023*
+1. World Organization of Family Doctors (WONCA), Online (COVID) | *December 2020*
+1. ABC course for Young Scientists, Uzhhorod, Ukraine | *October 2019*
+1. Ukrainian Association of Family Doctors Conference, Kyiv, Ukraine | *June 2019*
+1. Uzhhorod Medical Students Conference (UMESCO), Family Medicine Division, Uzhhorod, Ukraine | *April 2019*
+1. Uzhhorod Medical Students Conference (UMESCO), Internal Medicine Division, Uzhhorod Ukraine| *April 2019*
+1. Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
+1. Uzhhorod Medical Students Conference (UMESCO), Uzhhorod, Ukraine | *April 2018*
 
 ### **Poster**
 
