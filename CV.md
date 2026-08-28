@@ -11,16 +11,17 @@ title: Curriculum Vitae
 ---
 
 ## **Professional Summary**
-Hardworking and enthusiastic postdoctoral scholar in the field of genetics and epigenetics at the University of California, Davis. Passionate about understanding the epigenetic mechanisms underlying neurodevelopmental disorders, particularly autism spectrum disorder (ASD). Focused on exploring how various exposures interact with DNA methylation to influence health outcomes across generations.
+Hardworking and enthusiastic postdoctoral scholar in the field of genetics and epigenetics at the University of California, Davis. Passionate about understanding the epigenetic mechanisms underlying in various disease and disorders, such as autism spectrum disorder (ASD), obesity, breast cancer, and Alzheimer's disease. Focused on exploring how various exposures interact with DNA methylation to influence health outcomes across generations.
 
 ---
 
 ## **Key Skills**
-- **Intermediate/Advanced bioinformatics experience**: R (primary), SAS, Python, Github, Linux command-line,Nextflow,Snakemake)   
-- **Data Analysis**: DNA methylation calling(Whole Genome Bisulfite Sequencing),Variant Calling(Whole-Genome Sequencing),Phasing,methylation calling and variant analysis(Oxford-Nanopore Sequencing),Lipidomics
+- **Intermediate/Advanced bioinformatics experience**: R (primary), Github, Bash
+- **Beginner experience**: SAS, Python, Snakemake
+- **Data Analysis**: DNA methylation calling (Whole Genome Bisulfite Sequencing),Variant Calling(Whole-Genome Sequencing),Phasing,methylation calling and variant analysis(Oxford-Nanopore Sequencing),Lipidomics
 - **Quantitative Analysis**: Statistical Modeling (linear, logistic, generalized linear models, and ANOVA), Machine Learning (random forest, PLSDA, and SVM), and Network and Correlation Analysis
 - **Communication**: Strong oral and written communication skills
-- **Wet Lab**: DNA isolation (saliva, buffy coat, newborn dried blood spots), designing primers, and performing PCR
+- **Wet Lab**: DNA isolation (cell free DNA, saliva, buffy coat, newborn dried blood spots), designing primers, and performing PCR
 - **Team Work**: Collaboration, Interpersonal skills
 - **Primary Care Physician**
 - **Problem Solving**
@@ -31,16 +32,16 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 
 ### **Postdoctoral Scholar**  
 **University of California, Davis, CA, USA** | *July 2022 – Present*  
-- Researching epigenetics, focusing on DNA methylation in neurodevelopmental disorders and cancer  
+- Researching epigenetics, focusing on DNA methylation in neurodevelopmental disorders, obesity and  breast cancer  
 - Published and presented findings at national and international conferences
-- Mentored 3 Pre-med Undergraduate students and 6 international students
+- Mentored 4 Pre-med Undergraduate students and 6 international students
 
 ### **Assistant Lecturer, Family Medicine Department**  
 **Uzhhorod National University, Uzhhorod, Ukraine** | *September 2020 – June 2022*  
 - Became the 1st international student employed to work as an assistant lecturer in the department 
   of Family Medicine
 - Led instruction for all third-year medical students in Introduction to Family Medicine
-- Assisted faculty in delivering advanced courses to sixth-year medical students
+- Assisted family medicine faculty in delivering advanced courses to sixth-year medical students
 - Designed and implemented Objective Structured Clinical Examination (OSCE) curricula
 - Delivered lessons using diverse instructional formats, including online seminars, interactive assessments, and case-based discussions
 - Supervised students in developing clinical skills through role-play, standardized patient scenarios, and hands-on practice sessions 
@@ -57,7 +58,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
 - **Surgery**: Focused on pre- and post-surgical care  
 - **Obstetrics and Gynecology**: Observed and discussed complicated and interesting clinical cases
-- **Pediatrics**: Visited patients in the ward conditions and discussed treatment plans with attending physician, observed administration vaccinations, and monitored developmental milestones
+- **Pediatrics**: Visited in-patients and discussed treatment plans with attending physician, observed administration vaccinations, and monitored developmental milestones
 
 ### **Summer Medical Internship**
 **Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2017 - August 2017*
@@ -65,7 +66,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
 - **Surgery**: Focused on pre- and post-surgical care  
 - **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care 
-- **Pediatrics**: Visited patients in the ward conditions and discussed treatment plans with attending physician, observed administration vaccinations, and monitored developmental milestones
+- **Pediatrics**: Visited  in-patients and discussed treatment plans with attending physician, observed administration vaccinations, and monitored developmental milestones
 
 ### **Summer Medical Internship**
 **Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2016 - August 2016*
@@ -73,7 +74,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
 - **Surgery**: Focused on pre- and post-surgical care  
 - **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care 
-- **Pediatrics**: Visited patients in the ward conditions and discussed treatment plans with attending physician, observed administration vaccinations, and monitored developmental milestones
+- **Pediatrics**: Visited patients in-patients and discussed treatment plans with attending physician, observed administration vaccinations, and monitored developmental milestones
 
 ---
 
