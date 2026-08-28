@@ -247,8 +247,6 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 1. Member, International Society for Autism Research (INSAR) | *October 2024 - December 2025*
 1. Member, International Genetic Epidemiology Society (IGES) | *November 2024 - December 2024*
 1. Member, Association of Clinical and Translational Science (ACTS) | *April 2024 - Present*
-1. Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
-1. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023 - April 2023*
 1. Member, American Society of Human Genetics (ASHG) | *May 2023 - December 2024*
 1. Member, Perinatal Origin of Development (POD) Centre, University of California, Davis,  | *September 2022 - Present*
 1. Member, European General Practitioner Research Network (EGRPN) | *February 2022 - Present*
