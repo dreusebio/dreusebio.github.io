@@ -11,20 +11,20 @@ title: Curriculum Vitae
 ---
 
 ## **Professional Summary**
-Hardworking and enthusiastic postdoctoral scholar in the field of genetics and epigenetics at the University of California, Davis. Passionate about understanding the epigenetic mechanisms underlying in various disease and disorders, such as autism spectrum disorder (ASD), obesity, breast cancer, and Alzheimer's disease. Focused on exploring how various exposures interact with DNA methylation to influence health outcomes across generations.
+Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic analysis at the University of California, Davis. Experienced in whole-genome bisulfite sequencing, DNA methylation analysis, whole-genome and long-read sequencing, lipidomics, and statistical modeling. Research focuses on autism spectrum disorder, pregnancy outcomes, breast cancer risk, occupational exposures, and multigenerational health.
 
 ---
 
 ## **Key Skills**
-- **Intermediate/Advanced bioinformatics experience**: R (primary), Github, Bash
-- **Beginner experience**: SAS, Python, Snakemake
+- **Bioinformatics**:R, Bash, Git/GitHub, WGBS, DNA methylation analysis, WGS variant calling, Oxford Nanopore sequencing, lipidomics, WGCNA and network analysis
 - **Data Analysis**: DNA methylation calling (Whole Genome Bisulfite Sequencing),Variant Calling(Whole-Genome Sequencing),Phasing,methylation calling and variant analysis(Oxford-Nanopore Sequencing),Lipidomics
-- **Quantitative Analysis**: Statistical Modeling (linear, logistic, generalized linear models, and ANOVA), Machine Learning (random forest, PLSDA, and SVM), and Network and Correlation Analysis
+- **Statistical Analysis**: Statistical Modeling (linear, logistic, generalized linear models, and ANOVA), Machine Learning (random forest, PLSDA, and SVM), and Network and Correlation Analysis
+- **Developing proficiency**: SAS, Python, Snakemake
 - **Communication**: Strong oral and written communication skills
-- **Wet Lab**: DNA isolation (cell free DNA, saliva, buffy coat, newborn dried blood spots), designing primers, and performing PCR
+- **Laboratory methods**: DNA isolation (cell free DNA, saliva, buffy coat, newborn dried blood spots), designing primers, and performing PCR
 - **Team Work**: Collaboration, Interpersonal skills
-- **Primary Care Physician**
 - **Problem Solving**
+- **Clinical background: Medical degree and postgraduate training in family medicine**
 
 ---
 
@@ -58,7 +58,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
 - **Surgery**: Focused on pre- and post-surgical care  
 - **Obstetrics and Gynecology**: Observed and discussed complicated and interesting clinical cases
-- **Pediatrics**: Visited in-patients and discussed treatment plans with attending physician, observed administration vaccinations, and monitored developmental milestones
+- **Pediatrics**: Visited inpatients and discussed treatment plans with attending physician, observed vaccine administration, and monitored developmental milestones
 
 ### **Summer Medical Internship**
 **Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2017 - August 2017*
@@ -66,7 +66,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
 - **Surgery**: Focused on pre- and post-surgical care  
 - **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care 
-- **Pediatrics**: Visited  in-patients and discussed treatment plans with attending physician, observed administration vaccinations, and monitored developmental milestones
+- **Pediatrics**: Visited  inpatients and discussed treatment plans with attending physician, observed vaccine administrations, and monitored developmental milestones
 
 ### **Summer Medical Internship**
 **Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2016 - August 2016*
@@ -74,7 +74,7 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
 - **Surgery**: Focused on pre- and post-surgical care  
 - **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care 
-- **Pediatrics**: Visited patients in-patients and discussed treatment plans with attending physician, observed administration vaccinations, and monitored developmental milestones
+- **Pediatrics**: Visited inpatients and discussed treatment plans with attending physician, observed vaccine administration, and monitored developmental milestones
 
 ---
 
@@ -82,16 +82,18 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 - **Master's of Advanced Study in Clinical Research**   
   University of California, Davis, CA, USA *GPA: 3.46*  | *June 2023 - June 2025*
 
-- **Family Medicine PhD** *(Incomplete due to war in Ukraine)*  
-  Uzhhorod National University, Uzhhorod, Ukraine  | *July 2021 - February 2022*
-
-- **Master’s in Family Medicine (Residency)**  
+- **Doctoral Studies in Family Medicine**  
+  Uzhhorod National University, Uzhhorod, Ukraine | July 2021–February 2022  
+  *Program discontinued following the outbreak of war in Ukraine; degree not completed.*
+  
+- **General Practice - Family Medicine (Residency)**  
   Uzhhorod National University, Uzhhorod, Ukraine | *July 2019 - July 2021*
 
 - **Medical Doctor**  
   Uzhhorod National University,Uzhhorod, Ukraine  *GPA: 3.658*  | *September 2013 - June 2019*
 
 ---
+
 ## **Current Projects**
  - **Multigenerational inheritance of DNA methylation signatures in autism spectrum disorders**
 
@@ -119,17 +121,36 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 
 ---
 
+## **Professional Service**
+
+1. Manuscript Reviewer, BMC Medical Genomics | *August 2026*
+1. Manuscript Reviewer, Frontiers in Oncology | *December 2025*
+1. Abstract Reviewer,  International Society of Autism Research (INSAR) | *October 2025*
+1. Manuscript Reviewer, Human Molecular Genetics | *May 2025*
+1. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2025*
+1. Judge, Postdoctoral Scholar Association, University of California | *April 2024*
+1. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023*
+
+---
+
 ## **Publications**
 
 ### **Articles**
 
 1. **Kuodza GE**, Keeton VF, Williams LA, Kawai R, Mendiola AJP, Torres CG, Smith PM, Phipps JE, Castro-Alvarez S, Gilliland PD, Rodriguez ML, Carbajal KA, Vo IC, Patrikeyeva A, LaSalle JM, Simmons LA. Exploring cardiometabolic markers in adverse pregnancy outcomes: insights from the GROWell study. npj Womens Health. 2026 Jul 22. doi: 10.1038/s44294-026-00158-3. Available from: [https://www.nature.com/articles/s44294-026-00158-3](https://www.nature.com/articles/s44294-026-00158-3)
-1. Mouat JS, Krigbaum NY, Hakam S, Thrall E, **Kuodza GE**, Mellis J, Yasui DH, Cirillo PM, Ludena Y, Schmidt RJ, La Merrill MA, Hertz-Picciotto I, Cohn BA, LaSalle JM. Sex-specific DNA methylation signatures of autism spectrum disorder from whole genome bisulfite sequencing of newborn blood . *bioRxiv* [Preprint]. 2024 Dec 2:2024.07.11.603098. doi: 10.1101/2024.07.11.603098. Update in: *Biol Sex Differ*. 2025 Apr 30;16(1):30. doi: 10.1186/s13293-025-00712-9. PMID: 39026708; PMCID: PMC11257592. Available from: [https://bsd.biomedcentral.com/articles/10.1186/s13293-025-00712-9](https://bsd.biomedcentral.com/articles/10.1186/s13293-025-00712-9)
+
+1. Mouat JS, Krigbaum NY, Hakam S, Thrall E, **Kuodza GE**, Mellis J, Yasui DH, Cirillo PM, Ludena Y, Schmidt RJ, La Merrill MA, Hertz-Picciotto I, Cohn BA, LaSalle JM. Sex-specific DNA methylation signatures of autism spectrum disorder from whole genome bisulfite sequencing of newborn blood. *Biol Sex Differ*. 2025 Apr 30;16(1):30. doi: 10.1186/s13293-025-00712-9. PMID: 39026708; PMCID: PMC11257592. Available from: [https://bsd.biomedcentral.com/articles/10.1186/s13293-025-00712-9](https://bsd.biomedcentral.com/articles/10.1186/s13293-025-00712-9)
+
 1. **Kuodza GE**, Kawai R, LaSalle JM. Intercontinental insights into autism spectrum disorder: a synthesis of environmental influences and DNA methylation. *Environ Epigenetics* [Internet]. 2024 Dec 19 [cited 2024 Dec 23];10(1):dvae023. Available from: [https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223](https://academic.oup.com/eep/article/doi/10.1093/eep/dvae023/7884223)
+
 1. Hajdarevic S, Högberg C, Marzo-Castillejo M, Siliņa V, Sawicka-Powierza J, Esteva M, Koskela T, Petek D, Contreras-Martos S, Mangione M, Ožvačić Adžić Z, Asenova R, Gašparović Babić S, Brekke M, Buczkowski K, Buono N, Çifçili SS, Dinant GJ, Doorn B, Hoffman RD, **Kuodza G**, Murchie P, Pilv L, Puia A, Rapalavicius A, Smyrnakis E, Weltermann B, Harris M. Exploring why European primary care physicians sometimes do not think of, or act on, a possible cancer diagnosis: A qualitative study. *BJGP Open* [Internet]. 2023 Dec [cited 2024 Dec 23];7(4):BJGPO.2023.0029. Available from: [http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029](http://bjgpopen.org/lookup/doi/10.3399/BJGPO.2023.0029)
+
 1. Shushman I, Kolesnyk A, Kolesnyk P, **Kuodza G**, Mykyta I, Bayen S, Frese T. Validation of a modified questionnaire to assess Ukrainian Family Physicians’ readiness to implement the evidence-based screening recommendations into their clinical practice, using a mixed method study. *BMC Prim Care*. 2022;23(1). Available from: [https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4](https://bmcprimcare.biomedcentral.com/articles/10.1186/s12875-022-01818-4)
+
 1. Kolesnyk P, Bayen S, Shushman I, Kolesnyk A, **Kuodza G**, Klemenc-Ketič Z, Frese T. Identification and Ranking of Core Values in Family Medicine: A Mixed Methods Study From Ukraine. *Front Med* [Internet]. 2021 Mar 22 [cited 2024 Dec 23];8:646276. Available from: [https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full](https://www.frontiersin.org/articles/10.3389/fmed.2021.646276/full)
+
 1. **Kuodza GE**, Kolesnyk PO. An antibiotic drug-induced allergic reaction in a patient with multiple comorbidities. *Clinical Case*. *Achievements of Clinical and Experimental Medicine* [Internet]. 2020 Aug 20 [cited 2024 Dec 23];(2):211–4. Available from: [https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348](https://ojs.tdmu.edu.ua/index.php/zdobutky-eks-med/article/view/11348)
+
 1. **Kuodza G**, Kolesnyk A, Kolesnyk P, Matyukha L. Who Wants to be a Family Doctor in Ukraine? An Opinion Survey among Senior Undergraduate Students. *Recipe* [Internet]. 2020 Jul 21 [cited 2024 Dec 23];(2–3):248–57. Available from: [https://recipe.recipe.by/ru/?editions=2020-tom-23-n-2-3&group_id=item_0&article_id=line_7](https://recipe.recipe.by/ru/?editions=2020-tom-23-n-2-3&group_id=item_0&article_id=line_7)
 
 ### **Abstracts**
@@ -188,13 +209,13 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 1. 12th Annual UC Davis Human Genomics Symposium, University of California, Davis, CA, USA | *November 2025*
 1. Epigenomics Club, University of California, Davis, CA, USA | *October 2025*
 1. Juneteenth Symposium, University of California, Davis, CA, USA | *June 2025*
-1. 21th Annual Clinical Translational Science Center (CTSC) Scholar Symposium, University of California, Davis, CA, USA | *June 2025*
+1. 21st Annual Clinical Translational Science Center (CTSC) Scholar Symposium, University of California, Davis, CA, USA | *June 2025*
 1. 10th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2025*
 1. Human Genomics Focus Group (HGFG), University of California, Davis, CA, USA | *September 2024*
 1. 20th Annual Clinical Translational Science Center (CTSC) Scholar Symposium, University of California, Davis, CA, USA | *May 2024*
 1. 9th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2024*
 1. African Society for Bioinformatics and Computational Biology Omic Codeathon, Online | *April 2024*
-1. Genome Center Research Retreat,University of California, Davis, CA, USA | *April 2024*
+1. Genome Center Research Retreat, University of California, Davis, CA, USA | *April 2024*
 1. Association for Clinical and Translational Science, Las Vegas, NV, USA | *April 2024*
 1. 8th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *March 2023*
 1. World Organization of Family Doctors (WONCA), Online (COVID) | *December 2020*
@@ -242,7 +263,9 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
 ---
 
 ## **Professional Affiliations**
-1. Member, Sigma Xi, The Scientific Research Honor Society | *June 2025 - Present*
+
+1. Member, Developmental Origins of Health and Disease (DOHaD) Society | *July 2026 - Present*
+1. Member, Sigma Xi, The Scientific Research Honor Society | *June 2025 - June 2026*
 1. Member, Epigenetic Society (IGES) | *March 2025 - Present*
 1. Member, International Society for Autism Research (INSAR) | *October 2024 - December 2025*
 1. Member, International Genetic Epidemiology Society (IGES) | *November 2024 - December 2024*
@@ -275,16 +298,8 @@ Hardworking and enthusiastic postdoctoral scholar in the field of genetics and e
    **Published In:** Ukrainian Copyright Bulletin №63  
    **Official Registration Entry:** [Ukrainian National Intellectual Property Office – Entry №101856](https://sis.nipo.gov.ua/en/search/detail/1633860/)
 
----
-
-## **Professional Service**
-
-1. Manuscript Reviewer, Human Molecular Genetics | *May 2025 - May 2025*
-1. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2025 - April 2025*
-1. Judge, Postdoctoral Scholar Association, University of California | *April 2024 - April 2024*
-1. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023 - April 2023*
-   
+ 
 ---
 
 ## **Contact Information**
-For collaboration or inquiries, please reach out via **gekuodza@ucdavis.edu** or phone: **530-220-4085**.
+For collaboration or inquiries, please reach out via **gekuodza@health.ucdavis.edu** or phone: **530-220-4085**.
