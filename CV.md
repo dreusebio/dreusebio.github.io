@@ -61,7 +61,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 - **Laboratory methods**: DNA isolation (cell free DNA, saliva, buffy coat, newborn dried blood spots), designing primers, and performing PCR
 - **Team Work**: Collaboration, Interpersonal skills
 - **Problem Solving**
-- **Clinical background: Medical degree and postgraduate training in family medicine**
+- **Clinical background**: Medical degree and postgraduate training in family medicine
 
 
 
