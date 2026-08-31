@@ -22,19 +22,20 @@ pandoc CV.md \
   -V colorlinks=true \
   -V linkcolor=blue \
   --metadata title=""
-
-If xelatex is not found after installing BasicTeX, restart Terminal.
-
+  
 -->
 
 <style>
-main h2 {
+main h1 {
   border-bottom: 1px solid #888;
   padding-bottom: 0.25rem;
   margin-top: 1.75rem;
   margin-bottom: 0.75rem;
 }
-
+main h2 {
+  margin-top: 1.50rem;
+  margin-bottom: 0.55rem;
+}
 main h3 {
   margin-top: 1.25rem;
   margin-bottom: 0.4rem;
