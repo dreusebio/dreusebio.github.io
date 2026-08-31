@@ -19,7 +19,7 @@ pandoc CV.md \
 
 If xelatex is not found after installing BasicTeX, restart Terminal.
 -->
----
+
 layout: page
 title: Curriculum Vitae
 ---
