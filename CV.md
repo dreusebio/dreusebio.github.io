@@ -21,24 +21,27 @@ pandoc CV.md \
   -V mainfont="Arial" \
   -V colorlinks=true \
   -V linkcolor=blue \
-  --metadata title=""
-  
+  --metadata title=""  
 -->
 
 <style>
-main h1 {
-  border-bottom: 1px solid #888;
-  padding-bottom: 0.25rem;
-  margin-top: 1.75rem;
-  margin-bottom: 0.75rem;
+html body h1 {
+  border-bottom: 1px solid #888 !important;
+  padding-bottom: 0.25rem !important;
+  margin-top: 1.75rem !important;
+  margin-bottom: 0.75rem !important;
 }
-main h2 {
-  margin-top: 1.50rem;
-  margin-bottom: 0.55rem;
+
+html body h2 {
+  border-bottom: 1px solid #888 !important;
+  padding-bottom: 0.25rem !important;
+  margin-top: 1.5rem !important;
+  margin-bottom: 0.55rem !important;
 }
-main h3 {
-  margin-top: 1.25rem;
-  margin-bottom: 0.4rem;
+
+html body h3 {
+  margin-top: 1.25rem !important;
+  margin-bottom: 0.4rem !important;
 }
 </style>
 
