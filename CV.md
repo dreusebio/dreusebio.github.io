@@ -26,17 +26,31 @@ If xelatex is not found after installing BasicTeX, restart Terminal.
 
 -->
 
+<style>
+main h2 {
+  border-bottom: 1px solid #888;
+  padding-bottom: 0.25rem;
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+}
+
+main h3 {
+  margin-top: 1.25rem;
+  margin-bottom: 0.4rem;
+}
+</style>
+
 # George Eusebio Kuodza  
 *Postdoctoral Scholar in Epigenetics*  
 [LinkedIn](https://www.linkedin.com/in/george-eusebio-kuodza-89178314b/) | [GitHub](https://github.com/dreusebio) | [Website](https://dreusebio.github.io/)  
 **Email**: gekuodza@health.ucdavis.edu | **Phone**: 530-220-4085  
 
----
+
 
 ## **Professional Summary**
 Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic analysis at the University of California, Davis. Experienced in whole-genome bisulfite sequencing, DNA methylation analysis, whole-genome and long-read sequencing, lipidomics, and statistical modeling. Research focuses on autism spectrum disorder, pregnancy outcomes, breast cancer risk, occupational exposures, and multigenerational health.
 
----
+
 
 ## **Key Skills**
 - **Bioinformatics**: R, Bash, Git/GitHub, WGBS, DNA methylation analysis (Whole Genome Bisulfite Sequencing), WGS variant calling, Oxford Nanopore sequencing(Phasing, methylation calling), lipidomics, WGCNA and network analysis
@@ -48,7 +62,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 - **Problem Solving**
 - **Clinical background: Medical degree and postgraduate training in family medicine**
 
----
+
 
 ## **Professional Experience**
 
@@ -103,7 +117,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 - **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care.                 
 - **Pediatrics**: Visited inpatients and discussed treatment plans with the attending physician, observed vaccine administration, and monitored developmental milestones.           
 
----
+
 
 ## **Education**
 - **Master of Advanced Study in Clinical Research**   
@@ -119,7 +133,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 - **Medical Doctor**  
   Uzhhorod National University,Uzhhorod, Ukraine  *GPA: 3.658*  | *September 2013 - June 2019*
 
----
+
 
 ## **Current Projects**
  - **Multigenerational inheritance of DNA methylation signatures in autism spectrum disorders**
@@ -146,7 +160,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
   The study is part of the California Firefighter Cancer Prevention and Research Program (Award: F01FF8767) and examines molecular changes associated with occupational exposure to products of combustion. ​
 
----
+
 
 ## **Professional Service**
 
@@ -158,7 +172,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 1. Judge, Postdoctoral Scholar Association, University of California | *April 2024*
 1. Abstract Reviewer,  Postdoctoral Scholar Association, University of California | *April 2023*
 
----
+
 
 ## **Publications**
 
@@ -225,7 +239,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
 1. Narayanaswamy H, Gomo NE, **Kuodza G**, Essel K. Sanitary state and nosocomial infections of Regional Hospital named after A. Novak. *UMESCO Conference Abstracts* [Internet]. 2015 [cited 2026 Aug 28]. Available from: [Abstract](https://docs.google.com/document/d/11TNYDwGztbyhvC3IR46DwS013xH5WOLJ/edit)
 
----
+
 
 ## **Presentations**
 
@@ -269,7 +283,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 1. American Society of Human Genetics (ASHG), DC, USA | *November 2023*
 1. Genome Center Halloween Symposium, University of California, Davis, CA, USA | *October 2023*
 
----
+
 
 ## **Honors and Awards**
 1. **2nd place Oral Presentation** | 10th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2025*
@@ -287,7 +301,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 1. **2nd place Oral Presentation** |Art of Medical Oration 4th Annual Conference, Uzhhorod, Ukraine | *May 2018*
 1. **2nd place Oral Presentation** | Internal Medicine Division Uzhhorod Medical Students Conference, Uzhhorod, Ukraine | *April 2018*
 
----
+
 
 ## **Professional Affiliations**
 
@@ -303,7 +317,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 1. Member, European Academy of Teachers (EURACT) | *September 2020 - June 2022*
 1. Member, Örenäs Research Group  | *September 2019 - Present*
 
----
+
 
 ## **Media / News Coverage**
 1. **TV Ungvar Interview** – *Uzhhorod National University and International Collaboration*  
@@ -311,7 +325,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
    – **Appearance timestamps:** 1:27–2:02 and 8:30–9:00  
    – **Watch the full interview:** [YouTube – TV Ungvar](https://www.youtube.com/watch?v=mMi0e8vTMcA&list=PLUmypCef-jpKMwutK9LwMk449ZzUEP8_Z&ab_channel=Tv21%D0%A3%D0%BD%D0%B3%D0%B2%D0%B0%D1%80)
 
----
+
 
 ## Patents and Intellectual Property
 
@@ -326,7 +340,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
    **Official Registration Entry:** [Ukrainian National Intellectual Property Office – Entry №101856](https://sis.nipo.gov.ua/en/search/detail/1633860/)
 
  
----
+
 
 ## **Contact Information**
 For collaboration or inquiries, please reach out via **gekuodza@health.ucdavis.edu** or phone: **530-220-4085**.
