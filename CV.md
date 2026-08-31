@@ -48,12 +48,12 @@ main h3 {
 
 
 
-## **Professional Summary**
+# **Professional Summary**
 Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic analysis at the University of California, Davis. Experienced in whole-genome bisulfite sequencing, DNA methylation analysis, whole-genome and long-read sequencing, lipidomics, and statistical modeling. Research focuses on autism spectrum disorder, pregnancy outcomes, breast cancer risk, occupational exposures, and multigenerational health.
 
 
 
-## **Key Skills**
+# **Key Skills**
 - **Bioinformatics**: R, Bash, Git/GitHub, WGBS, DNA methylation analysis (Whole Genome Bisulfite Sequencing), WGS variant calling, Oxford Nanopore sequencing(Phasing, methylation calling), lipidomics, WGCNA and network analysis
 - **Statistical Analysis**: Statistical Modeling (linear, logistic, generalized linear models, and ANOVA), Machine Learning (random forest, PLS-DA, and SVM), and Network and Correlation Analysis
 - **Developing proficiency**: SAS, Python, Snakemake
@@ -65,7 +65,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
 
 
-## **Professional Experience**
+# **Professional Experience**
 
 ### **Postdoctoral Scholar**  
 **University of California, Davis, CA, USA** | *July 2022 – Present*.              
@@ -120,7 +120,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
 
 
-## **Education**
+# **Education**
 - **Master of Advanced Study in Clinical Research**   
   University of California, Davis, CA, USA *GPA: 3.46*  | *June 2023 - June 2025*
 
@@ -136,7 +136,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
 
 
-## **Current Projects**
+# **Current Projects**
  - **Multigenerational inheritance of DNA methylation signatures in autism spectrum disorders**
 
    The focus of this project is to try to understand if grandparental and parental environmental exposures, such as smoking, can be associated with ASD in their grandchildren. This study utilizes data from whole-genome bisulfite sequencing of saliva and newborn dried blood spots.
@@ -163,7 +163,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
 
 
-## **Professional Service**
+# **Professional Service**
 
 1. Manuscript Reviewer, BMC Medical Genomics | *August 2026*
 1. Manuscript Reviewer, Frontiers in Oncology | *December 2025*
@@ -175,7 +175,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
 
 
-## **Publications**
+# **Publications**
 
 ### **Articles**
 
@@ -242,7 +242,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
 
 
-## **Presentations**
+# **Presentations**
 
 ### **Oral**
 
@@ -286,7 +286,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
 
 
-## **Honors and Awards**
+# **Honors and Awards**
 1. **2nd place Oral Presentation** | 10th Annual Postdoctoral Research Symposium, University of California, Davis, CA, USA | *April 2025*
 1. **Barry Wolfe and Jacqueline Crawley Travel Award** | University of California, Davis, CA, USA | *April 2025*
 1. **Travel Award** | International Society of Autism Research (INSAR), Seattle, WA, USA | *April 2025*
@@ -304,7 +304,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
 
 
-## **Professional Affiliations**
+# **Professional Affiliations**
 
 1. Member, Developmental Origins of Health and Disease (DOHaD) Society | *July 2026 - Present*
 1. Member, Sigma Xi, The Scientific Research Honor Society | *June 2025 - June 2026*
@@ -320,7 +320,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
 
 
-## **Media / News Coverage**
+# **Media / News Coverage**
 1. **TV Ungvar Interview** – *Uzhhorod National University and International Collaboration*  
    Featured in a televised segment by TV Ungvar, highlighting Uzhhorod National University's efforts in advancing international collaborations. At the time, I was a PhD student in Family Medicine.  
    – **Appearance timestamps:** 1:27–2:02 and 8:30–9:00  
@@ -328,7 +328,7 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
 
 
-## Patents and Intellectual Property
+# Patents and Intellectual Property
 
 1. **Title:** *Fish OSCE Methodology*  
    **Full Title:** Oral work with illustrations — *Video presentation of lectures from the distance learning course “Methods of Teaching Objective Structured Clinical Examination of Patients in Family Physician Practice based on the system: ‘Fish OSCE’”*  
@@ -343,5 +343,5 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
  
 
 
-## **Contact Information**
+# **Contact Information**
 For collaboration or inquiries, please reach out via **gekuodza@health.ucdavis.edu** or phone: **530-220-4085**.
