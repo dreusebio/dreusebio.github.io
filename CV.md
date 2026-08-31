@@ -15,6 +15,7 @@ From the directory containing CV.md, run:
 pandoc CV.md \
   -o George_Eusebio_Kuodza_CV.pdf \
   --pdf-engine=xelatex \
+  --include-in-header=cv-header.tex \
   -V geometry:margin=0.7in \
   -V fontsize=10pt \
   -V mainfont="Arial" \
