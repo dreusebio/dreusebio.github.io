@@ -1,3 +1,24 @@
+<!--
+CREATE THE PDF
+
+First-time setup on macOS:
+  brew install pandoc
+  brew install --cask basictex
+
+From the directory containing CV.md, run:
+
+pandoc CV.md \
+  -o George_Eusebio_Kuodza_CV.pdf \
+  --pdf-engine=xelatex \
+  -V geometry:margin=0.7in \
+  -V fontsize=10pt \
+  -V mainfont="Arial" \
+  -V colorlinks=true \
+  -V linkcolor=blue \
+  --metadata title=""
+
+If xelatex is not found after installing BasicTeX, restart Terminal.
+-->
 ---
 layout: page
 title: Curriculum Vitae
@@ -16,9 +37,8 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 ---
 
 ## **Key Skills**
-- **Bioinformatics**:R, Bash, Git/GitHub, WGBS, DNA methylation analysis, WGS variant calling, Oxford Nanopore sequencing, lipidomics, WGCNA and network analysis
-- **Data Analysis**: DNA methylation calling (Whole Genome Bisulfite Sequencing),Variant Calling(Whole-Genome Sequencing),Phasing,methylation calling and variant analysis(Oxford-Nanopore Sequencing),Lipidomics
-- **Statistical Analysis**: Statistical Modeling (linear, logistic, generalized linear models, and ANOVA), Machine Learning (random forest, PLSDA, and SVM), and Network and Correlation Analysis
+- **Bioinformatics**: R, Bash, Git/GitHub, WGBS, DNA methylation analysis (Whole Genome Bisulfite Sequencing), WGS variant calling, Oxford Nanopore sequencing(Phasing, methylation calling), lipidomics, WGCNA and network analysis
+- **Statistical Analysis**: Statistical Modeling (linear, logistic, generalized linear models, and ANOVA), Machine Learning (random forest, PLS-DA, and SVM), and Network and Correlation Analysis
 - **Developing proficiency**: SAS, Python, Snakemake
 - **Communication**: Strong oral and written communication skills
 - **Laboratory methods**: DNA isolation (cell free DNA, saliva, buffy coat, newborn dried blood spots), designing primers, and performing PCR
@@ -32,54 +52,54 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
 ### **Postdoctoral Scholar**  
 **University of California, Davis, CA, USA** | *July 2022 – Present*  
-- Researching epigenetics, focusing on DNA methylation in neurodevelopmental disorders, obesity and  breast cancer  
-- Published and presented findings at national and international conferences
-- Mentored 4 Pre-med Undergraduate students and 6 international students
+- Researching epigenetics, focusing on DNA methylation in neurodevelopmental disorders, obesity, and  breast cancer. 
+- Published and presented findings at national and international conferences.
+- Mentored four Pre-med Undergraduate students and six international students.
 
 ### **Assistant Lecturer, Family Medicine Department**  
 **Uzhhorod National University, Uzhhorod, Ukraine** | *September 2020 – June 2022*  
 - Became the 1st international student employed to work as an assistant lecturer in the department 
-  of Family Medicine
-- Led instruction for all third-year medical students in Introduction to Family Medicine
-- Assisted family medicine faculty in delivering advanced courses to sixth-year medical students
-- Designed and implemented Objective Structured Clinical Examination (OSCE) curricula
-- Delivered lessons using diverse instructional formats, including online seminars, interactive assessments, and case-based discussions
-- Supervised students in developing clinical skills through role-play, standardized patient scenarios, and hands-on practice sessions 
+  of Family Medicine.
+- Led instruction for all third-year medical students in Introduction to Family Medicine.
+- Assisted family medicine faculty in delivering advanced courses to sixth-year medical students.
+- Designed and implemented Objective Structured Clinical Examination (OSCE) curricula.
+- Delivered lessons using diverse instructional formats, including online seminars, interactive assessments, and case-based discussions.
+- Supervised students in developing clinical skills through role-play, standardized patient scenarios, and hands-on practice sessions.
 
 ### **Family Medicine Residency**  
 **Municipal Family Clinic, Uzhhorod National University, Uzhhorod, Ukraine** | *July 2019 – July 2021*  
-- Welcomed and prepared patients for consultations  
-- Measured and recorded vital signs, contributing to initial assessments  
-- Assisted physicians during examinations and participated in treatment planning  
+- Welcomed and prepared patients for consultations.  
+- Measured and recorded vital signs, contributing to initial assessments.  
+- Assisted physicians during examinations and participated in treatment planning.
 
 ### **Final Year Medical Internship**  
 **Transcarpathian Regional Hospital, Uzhhorod, Ukraine** | *September 2018 – July 2019*  
-- 3 Month Rotations in Surgery, Obstetrics and Gynecology, Pediatrics, and Internal Medicine  
-- **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
-- **Surgery**: Focused on pre- and post-surgical care  
-- **Obstetrics and Gynecology**: Observed and discussed complicated and interesting clinical cases
-- **Pediatrics**: Visited inpatients and discussed treatment plans with attending physician, observed vaccine administration, and monitored developmental milestones
+- 3 Month Rotations in Surgery, Obstetrics and Gynecology, Pediatrics, and Internal Medicine.  
+- **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care.  
+- **Surgery**: Focused on pre- and post-surgical care.  
+- **Obstetrics and Gynecology**: Observed and discussed complicated and interesting clinical cases.
+- **Pediatrics**: Visited inpatients and discussed treatment plans with attending physician, observed vaccine administration, and monitored developmental milestones.
 
 ### **Summer Medical Internship**
 **Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2017 - August 2017*
-- Monthly rotations in Surgery, Obstetrics and Gynecology, Pediatrics and Internal Medicine
-- **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
-- **Surgery**: Focused on pre- and post-surgical care  
-- **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care 
-- **Pediatrics**: Visited  inpatients and discussed treatment plans with attending physician, observed vaccine administrations, and monitored developmental milestones
+- Monthly rotations in Surgery, Obstetrics and Gynecology, Pediatrics, and Internal Medicine.
+- **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care.  
+- **Surgery**: Focused on pre- and post-surgical care.  
+- **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care. 
+- **Pediatrics**: Visited  inpatients and discussed treatment plans with attending physician, observed vaccine administrations, and monitored developmental milestones.
 
 ### **Summer Medical Internship**
 **Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2016 - August 2016*
-- Monthly rotations in Surgery, Obstetrics and Gynecology, Pediatrics and Internal Medicine
-- **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care  
-- **Surgery**: Focused on pre- and post-surgical care  
-- **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care 
-- **Pediatrics**: Visited inpatients and discussed treatment plans with attending physician, observed vaccine administration, and monitored developmental milestones
+- Monthly rotations in Surgery, Obstetrics and Gynecology, Pediatrics, and Internal Medicine.
+- **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care.  
+- **Surgery**: Focused on pre- and post-surgical care.  
+- **Obstetrics and Gynecology**: Assisted in surgeries, including C-sections and hysterectomies, and provided prenatal care. 
+- **Pediatrics**: Visited inpatients and discussed treatment plans with attending physician, observed vaccine administration, and monitored developmental milestones.
 
 ---
 
 ## **Education**
-- **Master's of Advanced Study in Clinical Research**   
+- **Master of Advanced Study in Clinical Research**   
   University of California, Davis, CA, USA *GPA: 3.46*  | *June 2023 - June 2025*
 
 - **Doctoral Studies in Family Medicine**  
