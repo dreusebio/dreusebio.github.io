@@ -1,3 +1,8 @@
+---
+layout: page
+title: Curriculum Vitae
+---
+
 <!--
 CREATE THE PDF
 
@@ -18,11 +23,8 @@ pandoc CV.md \
   --metadata title=""
 
 If xelatex is not found after installing BasicTeX, restart Terminal.
--->
 
-layout: page
-title: Curriculum Vitae
----
+-->
 
 # George Eusebio Kuodza  
 *Postdoctoral Scholar in Epigenetics*  
@@ -51,13 +53,15 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 ## **Professional Experience**
 
 ### **Postdoctoral Scholar**  
-**University of California, Davis, CA, USA** | *July 2022 – Present*  
+**University of California, Davis, CA, USA** | *July 2022 – Present*.              
+
 - Researching epigenetics, focusing on DNA methylation in neurodevelopmental disorders, obesity, and  breast cancer. 
 - Published and presented findings at national and international conferences.       
 - Mentored four Pre-med Undergraduate students and six international students. 
 
 ### **Assistant Lecturer, Family Medicine Department**  
 **Uzhhorod National University, Uzhhorod, Ukraine** | *September 2020 – June 2022*  
+
 - Became the 1st international student employed to work as an assistant lecturer in the Department of Family Medicine. 
 - Led instruction for all third-year medical students in Introduction to Family Medicine.        
 - Assisted family medicine faculty in delivering advanced courses to sixth-year medical students.      
@@ -67,12 +71,14 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 
 ### **Family Medicine Residency**  
 **Municipal Family Clinic, Uzhhorod National University, Uzhhorod, Ukraine** | *July 2019 – July 2021*  
+
 - Welcomed and prepared patients for consultations.       
 - Measured and recorded vital signs, contributing to initial assessments.  
 - Assisted physicians during examinations and participated in treatment planning. 
 
 ### **Final Year Medical Internship**  
-**Transcarpathian Regional Hospital, Uzhhorod, Ukraine** | *September 2018 – July 2019*  
+**Transcarpathian Regional Hospital, Uzhhorod, Ukraine** | *September 2018 – July 2019*.                
+
 - 3 Month Rotations in Surgery, Obstetrics and Gynecology, Pediatrics, and Internal Medicine.   
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care.   
 - **Surgery**: Focused on pre- and post-surgical care.   
@@ -80,7 +86,8 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 - **Pediatrics**: Visited inpatients and discussed treatment plans with attending physician, observed vaccine administration, and monitored developmental milestones. 
 
 ### **Summer Medical Internship**
-**Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2017 - August 2017*
+**Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2017 - August 2017*.     
+
 - Monthly rotations in Surgery, Obstetrics and Gynecology, Pediatrics, and Internal Medicine.          
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care.            
 - **Surgery**: Focused on pre- and post-surgical care.            
@@ -88,7 +95,8 @@ Postdoctoral scholar specializing in epigenetics, bioinformatics, and multi-omic
 - **Pediatrics**: Visited  inpatients and discussed treatment plans with the attending physician, observed vaccine administrations, and monitored developmental milestones.        
 
 ### **Summer Medical Internship**
-**Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2016 - August 2016*
+**Parirenyatwa Group of Hospitals, University of Zimbabwe, Harare, Zimbabwe** | *May 2016 - August 2016*.           
+
 - Monthly rotations in Surgery, Obstetrics and Gynecology, Pediatrics, and Internal Medicine.            
 - **Internal Medicine**: Performed ward rounds, diagnostics, and outpatient care.                       
 - **Surgery**: Focused on pre- and post-surgical care.                      
